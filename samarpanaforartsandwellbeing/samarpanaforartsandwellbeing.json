@@ -1,0 +1,2104 @@
+{
+    "GraphImages": [
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/93345179_3423726967665892_538265999743961151_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=woqaNw5BgVAAX8NXIdt&se=7&oh=f145aedeca082a84523c3a9beb47fd81&oe=5EC1B65C&ig_cache_key=MjI4ODYzOTQ3NzcwNDc3NzE5MQ%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 209
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are happy to introduce Sreelakshmy Govardhanan as the next dancer in the Art Heals series. She will be joining us live tomorrow (Friday, April 17th) at 6 p.m. IST.\n\nSreelakshmy Govardhanan is a Kuchipudi artiste from India and a disciple of Guru Sri Pasumarthy Rattaiaha Sarma.\nShe is widely known for her grace, exquisite footwork and abhinaya, which comes alive during her dance performances.\n\nSreelakshmy has been the recipient of many coveted titles and honours such as ‘Kalashree’ from Kerala Sangeetha Nataka  akademi- state award , Adithya Vikram Birla Kalakiran Puraskar, Silver conch from Keli Mumbai, Kalasagar Award, Best Dancer from Music academy Chennai, Binfeild Endowment from Narada Gana Sabha Chennai, Bharatham Yuva Kalakar, Kala Ratna, Singar Mani, Natya Ratna, Nalanada Nrutya Nipuna to name a few.\n\nSreelakshmy is a graded artiste of Doordarshan and empanelled artiste in ‘established’ category of ICCR. Other than performing at various prestigious Indian dance festivals, she has performed on various international platforms in Netherlands, Australia, Italy, Germany, Switzerland, U.K, USA, Colombia, Jordan and Gulf countries that has earned her rave reviews.\nSreelakshmy is the founder and artistic director of the Avantika Space for Dance, a centre for learning, performance and research.\n\nSreelakshmy as a trained professional Psychologist utilises her proficiency in dance and psychological counselling to bring a difference in her Art and also for young minds in needing in every way.\n\n#artheals #artforall #samarpanaforartsandwellbeing"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 1
+            },
+            "gating_info": null,
+            "id": "2288639477704777191",
+            "is_video": false,
+            "media_preview": "ACoqyJ7qRZHAdxhzjDHAGTUJu5ezv/30f8aZcf61/wDeP86ekRC+YRn0H9T/AIVKStsU27ksctxICwdsD/aNRG5nXq7/APfRqxBNtBJwB0IUY/z/AJzVab5jkcKoAA9v/wBf86dl2FdkonmK7vMbP++f/wBddFbuTEhPJKrkn6CuQrp7dv3af7q/yFY1Fojenq2c7P8A6xv94/zpgYjgE4p0332/3j/Oo63MHuydWKgU9SCSD3UgfWq2aM0CEroIT+7X/dH8qwCc1txH5F/3R/KpaudFJ2bMeQ4cn/aP86lWR25JH/jv8jir/lqew/IUnlp6D8hWnKYlE5/vDj/d/wAaG3DoQf8Avn/Gr3lp6D8hR5aeg/IUWDXuZJYtya2Ij8i/QfypPLT0H5CnYxTSKjof/9k=",
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B_C4Xqvh13n",
+            "tags": [
+                "artheals",
+                "artforall",
+                "samarpanaforartsandwellbeing"
+            ],
+            "taken_at_timestamp": 1587047107,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/93345179_3423726967665892_538265999743961151_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=woqaNw5BgVAAX8NXIdt&oh=a0784961ba24097d82493eaa0cd7a572&oe=5EC2701A&ig_cache_key=MjI4ODYzOTQ3NzcwNDc3NzE5MQ%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/93345179_3423726967665892_538265999743961151_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=woqaNw5BgVAAX8NXIdt&oh=e177e97fb6fbd5dd3cfe54e15a3274d8&oe=5EC34ED4&ig_cache_key=MjI4ODYzOTQ3NzcwNDc3NzE5MQ%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/93345179_3423726967665892_538265999743961151_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=woqaNw5BgVAAX8NXIdt&oh=56bb7ed67d2a77ba11c1ed6acdc33649&oe=5EC4386A&ig_cache_key=MjI4ODYzOTQ3NzcwNDc3NzE5MQ%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/93345179_3423726967665892_538265999743961151_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=woqaNw5BgVAAX8NXIdt&oh=79552c2d919244543874ef6657fa6d0a&oe=5EC1BF34&ig_cache_key=MjI4ODYzOTQ3NzcwNDc3NzE5MQ%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/93345179_3423726967665892_538265999743961151_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=woqaNw5BgVAAX8NXIdt&oh=4a46dbc493b3092eef93c8b8ffb0b0a1&oe=5EC4CE3F&ig_cache_key=MjI4ODYzOTQ3NzcwNDc3NzE5MQ%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/93345179_3423726967665892_538265999743961151_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=woqaNw5BgVAAX8NXIdt&oh=4a46dbc493b3092eef93c8b8ffb0b0a1&oe=5EC4CE3F&ig_cache_key=MjI4ODYzOTQ3NzcwNDc3NzE5MQ%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/93345179_3423726967665892_538265999743961151_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=woqaNw5BgVAAX8NXIdt&se=7&oh=f145aedeca082a84523c3a9beb47fd81&oe=5EC1B65C&ig_cache_key=MjI4ODYzOTQ3NzcwNDc3NzE5MQ%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/93576564_744664732939994_7301884785444039980_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=f0drvXEfvZcAX-D1973&se=7&oh=d9e28ec3a662ae33d3452598719fd363&oe=5EC0F786&ig_cache_key=MjI4ODQ2NzgxOTkwODAzMjY3OA%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 100
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are happy to introduce Niranjana Ramanan as the next musician in the Art Heals series. She will be joining us live tomorrow (Friday, April 17th) at 12:30 p.m. IST.\n\nNiranjana Ramanan is a playback singer & live performer \nShe is the lead singer of the band Staccato. She has curated Project Delve - Coming Together of Arts and Artists. Niranjana has toured with the Maestro Ilayaraja and band to the U.S. , Australia and Singapore.\n\n#artforall #artheals #arthealsweek4 #samarpanaforartsandwellbeing"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2288467819908032678",
+            "is_video": false,
+            "media_preview": "ACoq2VjYlCoTZt+bI+bPb8KsCJe6r+VJFzEuOMqOfwqjJ9qjKosiuzHOWUDAx0wDz7kc1KStsU27stTvDbrvkwq5xnGev0BqRFikAZQrA9CMYrNvZlGVnx9zO3nnOc9sEdMHsapaA5BdcnaeQO2R1x+Yz+FOy7CuzbIAfG0bf93+vSqEhwxHoT/OtmsCZv3jf7x/nWU1sb09WzZt/wDVJ/uj+VVpJUSQyHkqNo9z1/yasW3+qT/dX+QqOS1WTOTwTnFbGD3Zz16Hlk84kMrKQMdBjkD+ue/NRWUsls2QARnJz/T04roksUUY6g9fwqRbONfegRaByMjvXNzt+8b/AHj/ADNdIPauWuD+9f8A3m/malq5vSdmzorcboUB/uL/ACFI0aqcqDn2/wA/0rlxcSgYDsAOg3H/ABo+0y/33/76P+NXYy1OlEQH8J6EdT0PWmiBM8qw9wT/AJ9a5z7TL/ff/vo/40faZf77/wDfR/xosGvc62OJYhhf55rlrk/vX/3m/maj+0y/33/76P8AjUZJJyeSapIpaH//2Q==",
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B_CRVt9h-im",
+            "tags": [
+                "arthealsweek4",
+                "artheals",
+                "artforall",
+                "samarpanaforartsandwellbeing"
+            ],
+            "taken_at_timestamp": 1587026644,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/93576564_744664732939994_7301884785444039980_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=f0drvXEfvZcAX-D1973&oh=bbea03e3fe084a68886a63bc7c65ae87&oe=5EC2C0C8&ig_cache_key=MjI4ODQ2NzgxOTkwODAzMjY3OA%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/93576564_744664732939994_7301884785444039980_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=f0drvXEfvZcAX-D1973&oh=e9fe1790e72c4258bc55ebaf21969c2c&oe=5EC1868E&ig_cache_key=MjI4ODQ2NzgxOTkwODAzMjY3OA%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/93576564_744664732939994_7301884785444039980_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=f0drvXEfvZcAX-D1973&oh=c7eb0f6b43570e39a7c16ffc901127ac&oe=5EC25D38&ig_cache_key=MjI4ODQ2NzgxOTkwODAzMjY3OA%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/93576564_744664732939994_7301884785444039980_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=f0drvXEfvZcAX-D1973&oh=d8b493df8be92f972186a663e3df46ae&oe=5EC358EE&ig_cache_key=MjI4ODQ2NzgxOTkwODAzMjY3OA%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/93576564_744664732939994_7301884785444039980_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=f0drvXEfvZcAX-D1973&oh=050a5c8200c3a013a05f27fef8bed57c&oe=5EC29861&ig_cache_key=MjI4ODQ2NzgxOTkwODAzMjY3OA%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/93576564_744664732939994_7301884785444039980_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=f0drvXEfvZcAX-D1973&oh=050a5c8200c3a013a05f27fef8bed57c&oe=5EC29861&ig_cache_key=MjI4ODQ2NzgxOTkwODAzMjY3OA%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/93576564_744664732939994_7301884785444039980_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=f0drvXEfvZcAX-D1973&se=7&oh=d9e28ec3a662ae33d3452598719fd363&oe=5EC0F786&ig_cache_key=MjI4ODQ2NzgxOTkwODAzMjY3OA%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/93380070_140873514149331_8449435345859373551_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=9aOHnwfIDvcAX-bd0NF&se=7&oh=d1bf4cd8b7941a27bd7ca18186fdaf9b&oe=5EC11EA8&ig_cache_key=MjI4NzkyNTA1OTMwNTkzMDg1Ng%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 210
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are happy to introduce Dr. Sunanda Nair as the next dancer in the Art Heals series. She will be joining us live tomorrow (Thursday, April 16th) at 6 p.m. IST.\n\nDr. Sunanda Nair is the first student in India to earn a Bachelor’s and Master’s Degree in Mohini Attam in India, which she did from Nalanda Nrityakala Mahavidyalaya affiliated to the University of Mumbai, in the year 1988 and 1990. Sunanda is one of the leading Mohini Attam exponents in the country today with a valuable contribution of 33 years of performing and teaching this art form. She is a name to reckon with in the field of Indian classical dance, a highly acclaimed performer, choreographer and teacher in the international classical dance arena. Sunanda is the senior most disciple of the noted Mohini Attam exponent Padmabhushan awardee Dr. Kanak Rele to whom she completely devoted her study of the art form, and for Kathakali from Kalamandalam Krishnankutty Warier and for Bharatanatyam under Guru Shri. Deepak Mazumdar, Kalaimamani Mahalingam Pillai and Kalaimamani Kadirvelu Pillai.\n\nIn September 2016, she submitted her research thesis, “An Intrinsic Lyrical Feminism in Mohini Attam” to Mumbai University under the expert guidance of Guru Kanak Rele for which she was awarded a Ph.D. Sunanda is also the recipient of the prestigious “Kerala Sangeetha Natak Akademi Puraskar” for 2010 and “Kalarathnam” from Kerala Kalamandalam for 2016.\n\nRECOGNITION “Laasyam” a documentary on Sunanda was one of the few films selected for the India International Film Festival in Goa; Laasyam was also featured at the Film Festival in Kolkata\n\nA grade artiste of Central Doordarshan\n\nEmpanelled artiste of the Indian Council for Cultural Relations\n\nAt the turn of the century, 'India Today', the leading news magazine featured Sunanda as one of the 50 promising dancers of the country\n\nA unique opportunity to perform at the prestigious Carnegie Hall, New York along with her senior students for the Festival of India.\n\n#artheals #artforall #arthealsweek4 #samarpanaforartsandwellbeing"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 4
+            },
+            "gating_info": null,
+            "id": "2287925059305930856",
+            "is_video": false,
+            "media_preview": "ACoqyJ7qRZHAdxhzjDHAGTUJu5ezv/30f8abMpeZgOpZv5mo0QuwUdTxUpK2xTbuWkluXUurOVTknceP1/lUX2ub++//AH0f8asqZDFhASFBVvTnr379enas6nZdhXZdE8xXd5jZ/wB8/wD666K3cmJCTklVyT9BXIV08Dfu0/3V/kKyqLRG1PVs56YkSMR/eP8AOmB8HOBkUs332/3j/Oo62MXuzSnnfy1C/dcZJHc9/ofWqDIVwT3oV9tIWJ4oENroIT+7X/dH8q5+tyI/Iv8Auj+VS1c6KTs2Y8v32+p/nT0JIAyAAfbOfxI9a0fLU9h+QpPLT0H5CtLGNikfqv8A47/jSEEDIK/+O/41e8tPQfkKPLT0H5Ciwa9zIrZiPyL9B/Kk8tPQfkKdjFNIqOh//9k=",
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B_AV7gwpQBo",
+            "tags": [
+                "arthealsweek4",
+                "artheals",
+                "artforall",
+                "samarpanaforartsandwellbeing"
+            ],
+            "taken_at_timestamp": 1586961942,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/93380070_140873514149331_8449435345859373551_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=9aOHnwfIDvcAX-bd0NF&oh=82c1f21475efbeebbc18369cf6ddaccc&oe=5EC230E6&ig_cache_key=MjI4NzkyNTA1OTMwNTkzMDg1Ng%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/93380070_140873514149331_8449435345859373551_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=9aOHnwfIDvcAX-bd0NF&oh=d833612f95ca3b28c85b7dbc374cb37f&oe=5EC36A30&ig_cache_key=MjI4NzkyNTA1OTMwNTkzMDg1Ng%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/93380070_140873514149331_8449435345859373551_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=9aOHnwfIDvcAX-bd0NF&oh=09f7b7a46467173197c45fb5052cf377&oe=5EC2E416&ig_cache_key=MjI4NzkyNTA1OTMwNTkzMDg1Ng%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/93380070_140873514149331_8449435345859373551_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=9aOHnwfIDvcAX-bd0NF&oh=1c1d3a417d40cebadb8f2e72c84b66c9&oe=5EC17FD0&ig_cache_key=MjI4NzkyNTA1OTMwNTkzMDg1Ng%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/93380070_140873514149331_8449435345859373551_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=9aOHnwfIDvcAX-bd0NF&oh=830f77678f8d5c2d7d399ad3071addf1&oe=5EC15543&ig_cache_key=MjI4NzkyNTA1OTMwNTkzMDg1Ng%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/93380070_140873514149331_8449435345859373551_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=9aOHnwfIDvcAX-bd0NF&oh=830f77678f8d5c2d7d399ad3071addf1&oe=5EC15543&ig_cache_key=MjI4NzkyNTA1OTMwNTkzMDg1Ng%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/93380070_140873514149331_8449435345859373551_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=9aOHnwfIDvcAX-bd0NF&se=7&oh=d1bf4cd8b7941a27bd7ca18186fdaf9b&oe=5EC11EA8&ig_cache_key=MjI4NzkyNTA1OTMwNTkzMDg1Ng%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/93435772_542673059978540_972761189626675862_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=l9cGNGBvC8cAX_UOEkv&se=7&oh=b72fe1cd70460525af3b4efd94717843&oe=5EC16235&ig_cache_key=MjI4Nzc0MzkxNzIxMjc5MTM5OQ%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 113
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are happy to introduce Deepika Varadarajan as the next musician in the Art Heals series. She will be joining us live tomorrow (Thursday, April 16th) at 12:30 p.m. IST.\n\nDeepika is a multifaceted, versatile performer. She is a successful singer with extensive classical and light music experience. Deepika belongs to a family of music connoisseurs. Her debut performance was at the age of 3 for the 64th birth anniversary celebrations of Dr. M. L. Vasanthakumari.\n\nA disciple of Padmabhushan awardee Sudha Ragunathan for the past 20 years, Deepika also learns Hindustani Classical Music from Pandit Prasad Khaparde.\n\nDeepika has sung in 6 languages for leading music directors like Ilayaraja, A.R.Rahman, M.S.Viswanathan, Deva and Vidyasagar. Deepika has recently sung in movies such as Middle Class Abbayi, Baahubali, CSK, Kalloori, Ayirathil Iruvar, Poyyamozhi. She has also acted in a lead role and sung in a popular tele serial “Kaialavu Manasu” and its Hindi remake “Chhoti Si Asha” directed by K. Balachander, an ace Indian director. Deepika has acted and sung in movies besides being a voice actor in movies like “The Lion King”, “Avvai Shanmugi” “Yaan”, “Sandamarutham”, “Uttama Villain”, “Thani Oruvan”, “Enakkul Oruvan” and “Thiruttu Payale 2.” Deepika is a featured All India Radio A-Grade artist. She has been conferred with titles like “Yuva Kala Bharati” by Bharat Kalachar and “Isai Chudar” by Karthik Fine Arts. However, the highest honor has been the invitation from the U.S. Department of State to participate in the Fusion Arts Exchange program at Northeastern University, Boston in the year 2008.\n\nDeepika performs with the legendary singer Shankar Mahadevan on his special concerts. She has been a part of Star Vijay channel’s shows such as “Andrum Indrum Endrum”, “Thamizhukku Amuthendru Per”, performed music shows and hosted corporate shows of brands like ITC, Mangaldeep, Packaging Industries, Department of Commerce, Biovedas’ Medicall, Cognizant and TCS.\n\nDeepika holds a bachelor’s degree in Engineering (Information Technology) and is an undergraduate in Sanskrit.\n\n#artheals #artforall #arthealsweek4 #samarpanaforartsandwellbeing"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2287743917212791399",
+            "is_video": false,
+            "media_preview": "ACoq2VjYlCoTZt+bI+bPb8KkkCRKXcLtUZOB6VJB/q1/3R/Km3JURMX+7g5zUpK2xTbuypDOGkEcsXlbxlCcHOOSDjo2OcemaveUnoPyrDW5MkSzoPmBXO7rx1AJ6kgkDA6Gta3u0uMhcgjqDwadl2FdgQA+No2/7v8AXpVCQ4Yj0J/nWzWBM37xv94/zrKa2N6erZs2/wDqk/3R/Ks/WgTbHGTyP596v23+qT/dX+QpZohKpRujDBrYwe7OZ89YseWc7QACenQev/1uKrR3DxzCUHLA/n6j8a1P7DH976cf/X4p0ekBTntQI3VYOAw6EZH41zk7fvG/3j/M10aLtUL6DFcvcH96/wDvN/M1LVzek7NnR23+pT/dX+QpZeeME1yguJQMB2AHQbj/AI0faZf77/8AfR/xrSxkdJ5Q/un+tSRjYeFOMAevr/jXL/aZf77/APfR/wAaPtMv99/++j/jSsGr6nY1yVyf3r/7zfzNR/aZf77/APfR/wAajJJ5PJNUkOOh/9k=",
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B-_svjCh3Jn",
+            "tags": [
+                "arthealsweek4",
+                "artheals",
+                "artforall",
+                "samarpanaforartsandwellbeing"
+            ],
+            "taken_at_timestamp": 1586940348,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/93435772_542673059978540_972761189626675862_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=l9cGNGBvC8cAX_UOEkv&oh=c5b6fd9d6090e211eaf52ce8dac23747&oe=5EC2AD27&ig_cache_key=MjI4Nzc0MzkxNzIxMjc5MTM5OQ%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/93435772_542673059978540_972761189626675862_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=l9cGNGBvC8cAX_UOEkv&oh=9465f77000c47c965546a9dd2349b161&oe=5EC2D214&ig_cache_key=MjI4Nzc0MzkxNzIxMjc5MTM5OQ%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/93435772_542673059978540_972761189626675862_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=l9cGNGBvC8cAX_UOEkv&oh=c011e880f9234f8104dd1d28c586cbd2&oe=5EC3F82C&ig_cache_key=MjI4Nzc0MzkxNzIxMjc5MTM5OQ%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/93435772_542673059978540_972761189626675862_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=l9cGNGBvC8cAX_UOEkv&oh=c6cb70b4e560ef24fde3aff534e7b5bc&oe=5EC447F8&ig_cache_key=MjI4Nzc0MzkxNzIxMjc5MTM5OQ%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/93435772_542673059978540_972761189626675862_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=l9cGNGBvC8cAX_UOEkv&oh=2f2096846498ebb5a0ced9781c2434a6&oe=5EC32948&ig_cache_key=MjI4Nzc0MzkxNzIxMjc5MTM5OQ%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/93435772_542673059978540_972761189626675862_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=l9cGNGBvC8cAX_UOEkv&oh=2f2096846498ebb5a0ced9781c2434a6&oe=5EC32948&ig_cache_key=MjI4Nzc0MzkxNzIxMjc5MTM5OQ%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/93435772_542673059978540_972761189626675862_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=l9cGNGBvC8cAX_UOEkv&se=7&oh=b72fe1cd70460525af3b4efd94717843&oe=5EC16235&ig_cache_key=MjI4Nzc0MzkxNzIxMjc5MTM5OQ%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92825083_224814555279776_2433488590436384030_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=Y9J8_iFyeR0AX-pvKvR&se=7&oh=2f17e24402d8beffe4bb2b68d3877524&oe=5EC4C6E2&ig_cache_key=MjI4NzIwMjUyNTk5ODU4OTg0Mw%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 143
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are happy to introduce Pandit Vishal Krishna as the next dancer in the Art Heals series. He will be joining us live tomorrow (Wednesday, April 15th) at 6 p.m. IST.\n\nBorn into a family steeped in Indian classical dance, melody and rhythm has always been an integral part of Pt Vishal Krishna’s life.He is a descendant of the legendary family of Acharya Sukhdev Maharaj and the 4th generation of dancers of the Banaras Gharana. His family and doyens of the Gharana include, Kathak Queen Sitara Devi, Pandit Chaube Maharaj & Nataraj Gopi Krishna.\n\nPt Vishal Krishna started his dance training under the strict tutelage of his grandmother Kathak Queen Sitara Devi. Training under the undisputed doyen meant strict discipline and arduous practice for several hours a day. Through the years he also learnt with his father, a respected Kathak exponent, Pt Mohan Krishan and Pt Ravi Shankar Mishra.\n\nPt Vishal Krishna’s compositions are based on Indian mythology, giving the dance form a spiritual essence. He has a distinctive style of dancing, drawing from the treasure trove of themes composed and choreographed by his illustrious family. A striking element is his emphasis on abhinaya, based on compositions from ancient Hindu texts. His dance is characterized by perfect sync with melody, rhythm, poetry and a face exuding the nuances of Bhavyabhakti. He merges the lyrical finesse and rhythmic prowess of kathak with intelligent use of space in his performances. The insouciance of rhythmic brilliance with virile and vigorous movements enhance the beauty of his performances making him a much sought after artiste.\n\nApart from being a dancer of repute, he teaches students and choreographs pieces for audiences both in India and abroad.\n\nPt Vishal Krishna is regarded as an artiste with immense versatility and is the torchbearer of the Benaras Gharana.\n\nHe has won accolades performing extensively in India and abroad. These include the-\n\nShringar Mani \nPt Birju Maharajah Sangeet Samriddhi Samman\n\nBismillah KhanYuva Puraskar\n\n#artheals #artforall #arthealsweek4 #samarpanaforartsandwellbeing"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2287202525998589843",
+            "is_video": false,
+            "media_preview": "ACoqyJ7qRZHAdxhzjDHAGTUJu5ezv/30f8aZcf61/wDeP86hqUlbYpt3LIupj/y0f/vo0G6nH/LRv++j/jUlsjFWAHDDGc+n86rsNi7SPmPX+lOy7CuywJ5iu7zGz/vn/HNdFbuTEhPJKrkn6CuQrp7dv3af7q/yFY1Fojenq2c7P/rG/wB4/wA6RIy4J6Ad/wClE332/wB4/wA6QuSAvpW5g92Xof8AV7D2P6Hr/wDWqnJycDoP8801X20O276UCGV0EJ/dr/uj+Vc/W5EfkX/dH8qlq50UnZsx5fvt9T/OnxZA6gD8P6kcVo+Wp7D8hSeWnoPyFaWMbFI5znI/8d/+KprA46g/iv8AjV/y09B+Qo8tPQfkKLB8zIrZiPyL9B/Kk8tPQfkKdjFNIqOh/9k=",
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B-9xpRLhaeT",
+            "tags": [
+                "arthealsweek4",
+                "artheals",
+                "artforall",
+                "samarpanaforartsandwellbeing"
+            ],
+            "taken_at_timestamp": 1586875809,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/92825083_224814555279776_2433488590436384030_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=Y9J8_iFyeR0AX-pvKvR&oh=9a15f8ffbeb748abbfb8947035c61803&oe=5EC174A4&ig_cache_key=MjI4NzIwMjUyNTk5ODU4OTg0Mw%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/92825083_224814555279776_2433488590436384030_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=Y9J8_iFyeR0AX-pvKvR&oh=1cfc86363736b7055bb1a63fef53e6fc&oe=5EC3496A&ig_cache_key=MjI4NzIwMjUyNTk5ODU4OTg0Mw%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/92825083_224814555279776_2433488590436384030_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=Y9J8_iFyeR0AX-pvKvR&oh=5e7dc9372cfc8b273b8264c41f96b807&oe=5EC28854&ig_cache_key=MjI4NzIwMjUyNTk5ODU4OTg0Mw%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/92825083_224814555279776_2433488590436384030_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=Y9J8_iFyeR0AX-pvKvR&oh=40a77fe01e05a57702cf8b63fa066bd3&oe=5EC47D0A&ig_cache_key=MjI4NzIwMjUyNTk5ODU4OTg0Mw%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92825083_224814555279776_2433488590436384030_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=Y9J8_iFyeR0AX-pvKvR&oh=0b216b3fe4bba8399d709996c7beb2af&oe=5EC3A805&ig_cache_key=MjI4NzIwMjUyNTk5ODU4OTg0Mw%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92825083_224814555279776_2433488590436384030_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=Y9J8_iFyeR0AX-pvKvR&oh=0b216b3fe4bba8399d709996c7beb2af&oe=5EC3A805&ig_cache_key=MjI4NzIwMjUyNTk5ODU4OTg0Mw%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92825083_224814555279776_2433488590436384030_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=Y9J8_iFyeR0AX-pvKvR&se=7&oh=2f17e24402d8beffe4bb2b68d3877524&oe=5EC4C6E2&ig_cache_key=MjI4NzIwMjUyNTk5ODU4OTg0Mw%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92637846_550390472547538_5810316319221658444_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=UUIYT39cR7QAX_3CuCD&se=7&oh=508727ede715e744c90cbab40583cd5e&oe=5EC1B8EB&ig_cache_key=MjI4NzAyOTY5MDk2OTY1OTI5NA%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 112
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are happy to introduce Vittal Rangan as the next musician in the Art Heals series. He will be joining us live tomorrow (Wednesday, April 15th) at 12:30 p.m. IST.\n\nVittal Rangan is a Chartered Accountant by profession and has cleared his C.A. Final in a single attempt. He started learning violin at age 8 initially from Late Sri. R.R. Keshavamurthy, and later from Sangeetha Kalanidhi Kum. A. Kanyakumari. He is an 'A' graded violinist and recipient  of the Shanmukhananda Bharat Ratna Dr MS Subbulakshmi Fellowship Award and the CCRT Scholarship. \nHe has to his credit the following awards - \nBest Violinist – Parthasarathy Sabha, Chennai - 2015\n\nBest Violinist Award at Kalavanta National Youth Festival - 2014\n\n1st Prize in All India Radio National Competition – 2010\n\nPratibha Akanshi Award from Ramaseva Mandali April 2009\n\nAnanya Yuva Puraskara Award 2009\n\nRotary Young Achievers Award– 2009\n\nLalgudi Gopala Iyer Best accompanying violinist–Krishna Gana Sabha 2009\n\n1st Prize in Instrumental music competition Indian Fine Arts Madras – 2008\n\n1st Prize in Instrumental – Music Academy Madras 2008\n\nBest Violin support artist Ananya Cultural Academy 2008\n\nCONCERTS:\n\nVittal Rangan performs with his Guru Kum. A Kanyakumari all over India. He has also accompanied great stalwarts and other senior musicians such as Padmabhushan awardee Sri. R.K. Srikantan, Padmabhushan awardee Sri. T.V. Sankaranarayanan, Sri. O.S. Thyagarajan, Sangeetha Kala Acharya Smt. Neela Ramgopal, Sri. S. Shankar, Smt. Ranjani & Smt. Gayatri, Smt. Kaushiki Chakraborty, Smt. Vishaka Hari, Sri. T.M. Krishna, Sri. N. Ravikiran, Sri. Sashank, Sri. Abhishek Raghuram, Sri. Kunnakudi Balamuralikrishna and Sri. Saketharaman.\n\nHe has toured several countries including New Zealand, Malaysia, Dubai, Germany, Brussels, Paris and Switzerland.\n\n#artheals #arthealsweek4 #artforall #samarpanaforartsandwellbeing"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2287029690969659294",
+            "is_video": false,
+            "media_preview": "ACoq2VjYlCoTZt+bI+bPb8KsCJe6r+VEH+rX/dH8qimuhGcAZNSkrbFNu7M/Ub9bNhGsYYkbiTwMZx6cn+VXbOSO6iWUKBu6jjgjgiqM0pkJYruOOAPT2PueD26Vc0+VGiCrgHGSOvJ65/GnZdhXZKQA+No2/wC7/XpVCQ4Yj0J/nWzWBM37xv8AeP8AOsprY3p6tmzb/wCqT/dH8qx7lmE7BuBjI9/Wte2/1Sf7q/yFRz2/mc1sYPdmK8uBkZHUZ/nU9knl3HzDlxyPfjnH4U6SxkPTn64xU9vbPGyFuqDGRyT9fbFAjVrmp2/eN/vH+ZrpBzXLXB/ev/vN/M1LVzek7NnR23+pT/dX+QpJVBP3d1csLiUDAdgB0G4/40faZf77/wDfR/xq7GR0hiBG0qcZz+NAhGRkN+Z/z6Vzf2mX++3/AH0f8aPtMv8Aff8A76P+NFg17nY1yVyf3r/7zfzNR/aZf77/APfR/wAajJJOTyTVJDjof//Z",
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B-9KWMBBJee",
+            "tags": [
+                "arthealsweek4",
+                "artheals",
+                "artforall",
+                "samarpanaforartsandwellbeing"
+            ],
+            "taken_at_timestamp": 1586855206,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/92637846_550390472547538_5810316319221658444_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=UUIYT39cR7QAX_3CuCD&oh=e6a66a8d7811d9dcd99e17ce554d170b&oe=5EC39829&ig_cache_key=MjI4NzAyOTY5MDk2OTY1OTI5NA%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/92637846_550390472547538_5810316319221658444_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=UUIYT39cR7QAX_3CuCD&oh=814be502280e36bb3aad7e5e5adc9b56&oe=5EC1EDE3&ig_cache_key=MjI4NzAyOTY5MDk2OTY1OTI5NA%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/92637846_550390472547538_5810316319221658444_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=UUIYT39cR7QAX_3CuCD&oh=ca5c7a406ca9ce2b189d9662772d9a9b&oe=5EC35759&ig_cache_key=MjI4NzAyOTY5MDk2OTY1OTI5NA%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/92637846_550390472547538_5810316319221658444_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=UUIYT39cR7QAX_3CuCD&oh=70475108f4b7393f5309aed5b5ae3a56&oe=5EC35903&ig_cache_key=MjI4NzAyOTY5MDk2OTY1OTI5NA%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92637846_550390472547538_5810316319221658444_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=UUIYT39cR7QAX_3CuCD&oh=81a7252a0524ed5e972f5df6f1432aa0&oe=5EC3F010&ig_cache_key=MjI4NzAyOTY5MDk2OTY1OTI5NA%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92637846_550390472547538_5810316319221658444_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=UUIYT39cR7QAX_3CuCD&oh=81a7252a0524ed5e972f5df6f1432aa0&oe=5EC3F010&ig_cache_key=MjI4NzAyOTY5MDk2OTY1OTI5NA%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92637846_550390472547538_5810316319221658444_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=UUIYT39cR7QAX_3CuCD&se=7&oh=508727ede715e744c90cbab40583cd5e&oe=5EC1B8EB&ig_cache_key=MjI4NzAyOTY5MDk2OTY1OTI5NA%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/93803426_102875104676194_5499872740165743405_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=y95cfAOeDLEAX_zNieE&se=7&oh=86dadf867669423f0e31666b86a532eb&oe=5EC117F3&ig_cache_key=MjI4NjQ1NDg0NjQ0ODQyNTQxNg%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 231
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are happy to introduce Renjith Babu as one of the performers of our day long Tamil New Year celebrations as part the Art Heals series. He will be joining us live tomorrow (Tuesday, April 14th) at 6 p.m. IST.\n\nAn artist who exemplifies the best in Bharatanatyam, yoga, and martial arts; Renjith Babu combines his artistic excellence with a scientific understanding of the human body and its movements. The perfection and stylistic accessibility of his performances are extolled not just by critics and connoisseurs, but also by audiences uninitiated with the finer points of the dance form.\n\nHe started his training at the age of 5, under the tutelage of Smt. Prasanna Prakash (Kerala, India) and later he joined at the world renowned Kalakshetra (Chennai, India) where he acquired his dance diploma in the year 2000. He began his advanced training under the veteran Guru Professor C.V. Chandrasekhar and continues to do so till date. He has studied abhinaya in the ‘Navarasa Sadhana’ - Phase 1, acting methodology developed by Kathakali and Kudiyattam artist, Sri G Venu.\n\nRenjith has been featured as the principal dancer in acclaimed dance productions of senior gurus including that of his own Guru, Professor C.V. Chandrasekhar and the Dhananjayans' to name a few. His collaborations with leading artists have also resulted in the creation of some very widely appreciated productions.\n\nRenjith’s expertise has been enlisted by several dance schools in India, Australia and the United States, where he has conducted both Bharatanatyam and Yoga classes. His ability to teach the nuances of Bharatanatyam practice, theory and Nattuvangam makes him one of the sought after teachers in the field. An imaginative and vivid choreographer, Renjith’s creative works have received accolades the world over among the Indian dance diaspora.\n\n#artheals #artforall #tamilnewyear2020 #samarpanaforartsandwellbeing"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 5
+            },
+            "gating_info": null,
+            "id": "2286454850466576137",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B-7HpKFB3cJ",
+            "tags": [
+                "artheals",
+                "tamilnewyear2020",
+                "artforall",
+                "samarpanaforartsandwellbeing"
+            ],
+            "taken_at_timestamp": 1586786680,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/93803426_102875104676194_5499872740165743405_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=y95cfAOeDLEAX_zNieE&oh=28c6b5b7bf52b2d3cef8fc4f2dcb960b&oe=5EC2F7B1&ig_cache_key=MjI4NjQ1NDg0NjQ0ODQyNTQxNg%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/93803426_102875104676194_5499872740165743405_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=y95cfAOeDLEAX_zNieE&oh=25ded244a5ffb8c9683ceb984b8fa59d&oe=5EC4A37B&ig_cache_key=MjI4NjQ1NDg0NjQ0ODQyNTQxNg%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/93803426_102875104676194_5499872740165743405_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=y95cfAOeDLEAX_zNieE&oh=4e46b1244013958eafb6445fc5634b6e&oe=5EC31241&ig_cache_key=MjI4NjQ1NDg0NjQ0ODQyNTQxNg%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/93803426_102875104676194_5499872740165743405_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=y95cfAOeDLEAX_zNieE&oh=97ce67ed6c5ac595957820417d8c96a2&oe=5EC3469B&ig_cache_key=MjI4NjQ1NDg0NjQ0ODQyNTQxNg%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/93803426_102875104676194_5499872740165743405_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=y95cfAOeDLEAX_zNieE&oh=57f21eef448d53f17ef86cfbb644f7e7&oe=5EC43998&ig_cache_key=MjI4NjQ1NDg0NjQ0ODQyNTQxNg%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/93803426_102875104676194_5499872740165743405_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=y95cfAOeDLEAX_zNieE&oh=57f21eef448d53f17ef86cfbb644f7e7&oe=5EC43998&ig_cache_key=MjI4NjQ1NDg0NjQ0ODQyNTQxNg%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/93803426_102875104676194_5499872740165743405_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=y95cfAOeDLEAX_zNieE&se=7&oh=86dadf867669423f0e31666b86a532eb&oe=5EC117F3&ig_cache_key=MjI4NjQ1NDg0NjQ0ODQyNTQxNg%3D%3D.2",
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92823587_2676613172615670_4140815607436663489_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=lO-GisG3LLQAX8NUZGL&se=7&oh=ff90a77423198c0c0106340868300b8a&oe=5EC22653&ig_cache_key=MjI4NjQ1NDg0NjQ1NjczNzM2OA%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/93421020_297019871284703_4181554228820566344_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=grLGYVqrGMQAX9YGzKd&se=7&oh=d170488cbf4944085ce15a3ab975bcf7&oe=5EC4A0F6&ig_cache_key=MjI4NjQwODQ2OTUwMDU1ODIyNA%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 252
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are happy to introduce Nitya Narasimhan as one of the performers of our day long Tamil New Year celebrations as part the Art Heals series. She will be joining us live tomorrow (Tuesday, April 14th) at 7:30 a.m. IST.\n\nNitya Narasimhan is a Bharatanatyam dancer and Artistic Director of the Prayukti Academy for Indian Arts, California. She is under the tutelage of Guru Rukmini Vijayakumar, Bangalore and is a senior disciple/dancer in the Raadha Kalpa Dance Company. She began her Bharatanatyam training at the age of 4 and spent her formative years learning under Guru Suma Mani, Chennai. Nitya holds a diploma in movement and pedagogy from Attakkalari Centre for Movement Arts and Media and is currently pursuing an Art of Teaching program in Iyengar Yoga.\n\nNitya is a solo and freelance performer in the Bay Area, California and has worked with many reputed companies including Smt Vidhya Subramanian's Ensemble, Nava Dance Theatre, Abhinaya Dance Company and has been a part of notable productions touring across the US. She also extensively presents solo work and has been performing for the Chennai Marghazi season.\n\n#artheals #artforall #tamilnewyear2020 #samarpanaforartsandwellbeing"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 1
+            },
+            "gating_info": null,
+            "id": "2286408472696526610",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B-69GRahRcS",
+            "tags": [
+                "artheals",
+                "tamilnewyear2020",
+                "artforall",
+                "samarpanaforartsandwellbeing"
+            ],
+            "taken_at_timestamp": 1586781151,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/93421020_297019871284703_4181554228820566344_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=grLGYVqrGMQAX9YGzKd&oh=5ba31c92c041ac174d774a564baa3995&oe=5EC19D38&ig_cache_key=MjI4NjQwODQ2OTUwMDU1ODIyNA%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/93421020_297019871284703_4181554228820566344_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=grLGYVqrGMQAX9YGzKd&oh=af01d6cfaecf2a30dac1d74f60782ef2&oe=5EC3C87E&ig_cache_key=MjI4NjQwODQ2OTUwMDU1ODIyNA%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/93421020_297019871284703_4181554228820566344_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=grLGYVqrGMQAX9YGzKd&oh=bed7ebf83cae7e8f1c64e2216c19460f&oe=5EC25AC8&ig_cache_key=MjI4NjQwODQ2OTUwMDU1ODIyNA%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/93421020_297019871284703_4181554228820566344_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=grLGYVqrGMQAX9YGzKd&oh=49f596c41e8887e7bf42780d7a02c2fc&oe=5EC44F9E&ig_cache_key=MjI4NjQwODQ2OTUwMDU1ODIyNA%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/93421020_297019871284703_4181554228820566344_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=grLGYVqrGMQAX9YGzKd&oh=e9371389093b36fe1d83a6e924056e71&oe=5EC1F511&ig_cache_key=MjI4NjQwODQ2OTUwMDU1ODIyNA%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/93421020_297019871284703_4181554228820566344_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=grLGYVqrGMQAX9YGzKd&oh=e9371389093b36fe1d83a6e924056e71&oe=5EC1F511&ig_cache_key=MjI4NjQwODQ2OTUwMDU1ODIyNA%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/93421020_297019871284703_4181554228820566344_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=grLGYVqrGMQAX9YGzKd&se=7&oh=d170488cbf4944085ce15a3ab975bcf7&oe=5EC4A0F6&ig_cache_key=MjI4NjQwODQ2OTUwMDU1ODIyNA%3D%3D.2",
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/93099414_149381833245665_6306221064505068909_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=iGv7lUUx-DcAX-oeYuA&se=7&oh=141da71e3811b0dfb51fb0acf8b32d4d&oe=5EC31511&ig_cache_key=MjI4NjQwODQ2OTUyNTY2NDEwMg%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92784162_230343391711573_3544381087952277871_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=3nbH6iloeKsAX92q2J-&se=7&oh=a2a72bc95afc374fa278d52374594e92&oe=5EC2A76A&ig_cache_key=MjI4NjM3OTI5MTA0NDY1OTY2MA%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 94
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "PLEASE NOTE:\n\nDue to honourable Prime Minister Narendra Modi’s address to the nation at 10 am, we have rescheduled Ananya Bhat’s session to 9 pm🙏🏻\nPlease do join us!"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2286379294601332671",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B-62drMhUe_",
+            "tags": [],
+            "taken_at_timestamp": 1586777673,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/92784162_230343391711573_3544381087952277871_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=3nbH6iloeKsAX92q2J-&oh=9af695385226e0f7f0020431d0df4aca&oe=5EC2EA2C&ig_cache_key=MjI4NjM3OTI5MTA0NDY1OTY2MA%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/92784162_230343391711573_3544381087952277871_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=3nbH6iloeKsAX92q2J-&oh=0339ef49e484b2a4c547a57a71253f00&oe=5EC174E2&ig_cache_key=MjI4NjM3OTI5MTA0NDY1OTY2MA%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/92784162_230343391711573_3544381087952277871_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=3nbH6iloeKsAX92q2J-&oh=72c95132b7fc4a1fe6abddfc2ba9f60b&oe=5EC2D4DC&ig_cache_key=MjI4NjM3OTI5MTA0NDY1OTY2MA%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/92784162_230343391711573_3544381087952277871_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=3nbH6iloeKsAX92q2J-&oh=6dd54b0483f9f5d0a7e9038732ecfc01&oe=5EC41482&ig_cache_key=MjI4NjM3OTI5MTA0NDY1OTY2MA%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92784162_230343391711573_3544381087952277871_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=3nbH6iloeKsAX92q2J-&oh=6d8fd273df77c624f90acd3b5c2beff3&oe=5EC0E80D&ig_cache_key=MjI4NjM3OTI5MTA0NDY1OTY2MA%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92784162_230343391711573_3544381087952277871_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=3nbH6iloeKsAX92q2J-&oh=6d8fd273df77c624f90acd3b5c2beff3&oe=5EC0E80D&ig_cache_key=MjI4NjM3OTI5MTA0NDY1OTY2MA%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92784162_230343391711573_3544381087952277871_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=3nbH6iloeKsAX92q2J-&se=7&oh=a2a72bc95afc374fa278d52374594e92&oe=5EC2A76A&ig_cache_key=MjI4NjM3OTI5MTA0NDY1OTY2MA%3D%3D.2",
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92817182_536385617252188_5022067112727202046_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=8ATEhhoLCDcAX-nRaNR&se=7&oh=9d116af241c2cc525c72f777e509e2fe&oe=5EC1E757&ig_cache_key=MjI4NjM3OTI5MTA2MTI2MDc4OQ%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/93331924_2649565548649038_8088211229214452146_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=pfkK0H5GwUkAX9SHL04&se=7&oh=1f0573165c1fd9fb73ce734f9619eb4a&oe=5EC47DDE&ig_cache_key=MjI4NjM0OTI1NTQ5MDk2NzMxNQ%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 169
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are happy to introduce Vithya Arasu as one of the performers of our day long Tamil New Year celebrations as part the Art Heals series. She will be joining us live tomorrow (Tuesday, April 14th) at 11 a.m. IST.\n\nVithya, a classical dancer with an experience of over 22 years in Bharatanatyam, is also a trained Odissi and a Mohiniattam dancer.\n\nHer training in Bharatnatyam began at the age of 7 with Guru Krishnamoorthy and then continued to learn at Yoganjali Natyalayam. She has done her graduation in Performing Arts at Bharathiar Palkalaikoodam and her Master of Fine Arts from Sastra University. She has cleared the National Eligibility test in 2015. She has done a Diploma in Dance Teacher Training from Tamil University. She started learning at Nrithyodaya in 2013 under the Guru Dr. Padma Subrahmanyam, Srimati Uma Shriram and Dr. Gayatri Kannan. She has completed the Nritya Shali course which includes all the 108 Karanas and Angaharas.\n\nVithya started leaning Odissi from Ms. Kanchana from Auroville, a graduate from Nrityagram. She later received training from Guru. Surupa Sen at the city classes conducted in Bangalore and from Nrityagram. Her training in Mohiniattam is from Guru. Vichitra Dinakaran, a graduate of Kalamandalam and an Assistant Professor of Bharathiar Palkalaikoodam in Pondicherry.\n\nShe has performed extensively in her Guru Dr. Padma Subrahmanyam’s productions have been staged in India and abroad and has taken part in all the dance programs of the December season with her group since 2013. She has assisted her Guru Dr. Padma Subrahmanyam for a workshop conducted in Sri Lanka in 2016. She has performed for various prestigious festivals . She has demonstrated Odissi and Mohiniattam at the 38th Natya Kala Conference and at the Natyasastra Utsav organised by BIFAC, Sangeet Natak Akademi and Kalakshetra.\n\nVithya’s achievements include winning the Best Performer Award from Sri Parthasarathy Swamy Sabha in 2018. She is a recipient of Young Artistes Scholarship of ICCR from 2014-2016, a Gold Medalist in Bachelor of Performing Arts for the batch 2007-2011, has acquired the first mark in the Karana Exam (Nritya Shali) conducted in 2014, to name a few."
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2286349258854912981",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B-6vomOhlPV",
+            "tags": [],
+            "taken_at_timestamp": 1586774092,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/93331924_2649565548649038_8088211229214452146_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=pfkK0H5GwUkAX9SHL04&oh=f7e26c9ee2191c9c5673084f4b911455&oe=5EC22263&ig_cache_key=MjI4NjM0OTI1NTQ5MDk2NzMxNQ%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/93331924_2649565548649038_8088211229214452146_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=pfkK0H5GwUkAX9SHL04&oh=ea573f280fe595f631f2b6fec701e603&oe=5EC2AA65&ig_cache_key=MjI4NjM0OTI1NTQ5MDk2NzMxNQ%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/93331924_2649565548649038_8088211229214452146_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=pfkK0H5GwUkAX9SHL04&oh=284423002450d2ab843c31d89c0d3e5a&oe=5EC3921B&ig_cache_key=MjI4NjM0OTI1NTQ5MDk2NzMxNQ%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/93331924_2649565548649038_8088211229214452146_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=pfkK0H5GwUkAX9SHL04&oh=25030bf2741495d215bf50e385459ca1&oe=5EC412DE&ig_cache_key=MjI4NjM0OTI1NTQ5MDk2NzMxNQ%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/93331924_2649565548649038_8088211229214452146_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=pfkK0H5GwUkAX9SHL04&oh=3ad134f7cea8179d978a74282695bd7e&oe=5EC16368&ig_cache_key=MjI4NjM0OTI1NTQ5MDk2NzMxNQ%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/93331924_2649565548649038_8088211229214452146_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=pfkK0H5GwUkAX9SHL04&oh=3ad134f7cea8179d978a74282695bd7e&oe=5EC16368&ig_cache_key=MjI4NjM0OTI1NTQ5MDk2NzMxNQ%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/93331924_2649565548649038_8088211229214452146_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=pfkK0H5GwUkAX9SHL04&se=7&oh=1f0573165c1fd9fb73ce734f9619eb4a&oe=5EC47DDE&ig_cache_key=MjI4NjM0OTI1NTQ5MDk2NzMxNQ%3D%3D.2",
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/93151550_640634230052539_5188507892056361533_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=SL-TsIKLA1AAX_ljpEn&se=7&oh=7b6ce4d2a2c1b903f0d2fdd30f85681d&oe=5EC33D30&ig_cache_key=MjI4NjM0OTI1NTQ4Mjc2MDA3NQ%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/93136585_245822913478469_5777198276988890686_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=k9n3Hshipn4AX8RAHlE&se=7&oh=e175aa7628e77352067af393aa1bfed2&oe=5EC2FDE5&ig_cache_key=MjI4NjMyOTc4MDkwOTY1OTQxNQ%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 96
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are happy to introduce Jayakumar Baradwaj as one of the speakers of our day long Tamil New Year celebrations as part the Art Heals series.\nHe will be presenting a talk  on 'Temples and the Arts' and will be joining us live tomorrow (Tuesday, April 14th) at 3 p.m. IST.\n\nS.Jayakumar is a performing classical musician trained at Kalakshetra Foundation. An avid researcher in the fields of Classical Music & Dance, South Indian History and Cultural History; he has professionally been associated with various institutions as a faculty and expert resource person for over a decade. Owing to his academic inclinations, he has presented talks and lecture demonstrations at various venues.\n\nA firm believer that a greater understanding of our past will increase the chances of creating a better future, Jayakumar is also the founder of a Culture Travel Company Courtyard Tours and an NGO, Prastara.\n\nJayakumar holds a master’s degree in Music, another Master’s in History and Heritage Management and one in Tamil Literature. He additionally holds a diploma each in Sound Engineering and Saiva Siddhanta. He has been trained in Epigraphy under the tutelage of Padma Bhushan awardee Dr. R. Nagaswamy and Professor S.Ramachandran of the State Archaeological Department, Tamil Nadu. He has had the privilege of working with some of the finest performing artistes in the Indian subcontinent. Some of his notable works: Bombay Jayashri’s musical drama ‘Thyagraja’, Mani Ratnam’s current magnum opus ‘Ponniyin Selvan’ for which he is the Research Consultant.\n\n#artheals #artforall #tamilnewyear2020 #samarpanaforartsandwellbeing"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 2
+            },
+            "gating_info": null,
+            "id": "2286329780909659415",
+            "is_video": false,
+            "media_preview": "ACoqwlXIHA6VGynrjAop0cLSnCjp1PpQBNFalwScDA/i4/KqlasPnCPcmCB055BPbHfP61mAHvQA+PaM7v5ZqMjninGm5oAea0LZmEY2nAU5OO/19f6VQJq/ZEYKn/OaAFZymSvA3D5fTjr7jrinXqq+2VOdw6+pFXSsLAbwOOm08/UjnNRGBQQAxZRngjHX0xSbsVGLlsjKht2nbav4nsP89hW2tjAAAVzjuSefep4EjRAMED2pu6sJNvbRHTGmlvq/62MXyMcYBz3qZYEHbP1p9LXW0Qkuw7JB4HGOw700NL/d/wA//WpwJHSnbj6msmja7G7pey1OGOOevemBj6mlrNotH//Z",
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B-6rNJ-hFUX",
+            "tags": [
+                "artheals",
+                "tamilnewyear2020",
+                "artforall",
+                "samarpanaforartsandwellbeing"
+            ],
+            "taken_at_timestamp": 1586771770,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/93136585_245822913478469_5777198276988890686_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=k9n3Hshipn4AX8RAHlE&oh=edf30f6da9d01377ddd6bef9796c4ea4&oe=5EC4C4A7&ig_cache_key=MjI4NjMyOTc4MDkwOTY1OTQxNQ%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/93136585_245822913478469_5777198276988890686_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=k9n3Hshipn4AX8RAHlE&oh=b9bbf6a4a0d544d254bf207d26142f40&oe=5EC41C6D&ig_cache_key=MjI4NjMyOTc4MDkwOTY1OTQxNQ%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/93136585_245822913478469_5777198276988890686_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=k9n3Hshipn4AX8RAHlE&oh=2574dd0a70947bf88b6113ed83b984fc&oe=5EC4B6D7&ig_cache_key=MjI4NjMyOTc4MDkwOTY1OTQxNQ%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/93136585_245822913478469_5777198276988890686_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=k9n3Hshipn4AX8RAHlE&oh=76d615ab06558e4e337cdbdac3403993&oe=5EC4C20D&ig_cache_key=MjI4NjMyOTc4MDkwOTY1OTQxNQ%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/93136585_245822913478469_5777198276988890686_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=k9n3Hshipn4AX8RAHlE&oh=7d0d06699d1924f9d41b8a5d46e566fb&oe=5EC2C102&ig_cache_key=MjI4NjMyOTc4MDkwOTY1OTQxNQ%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/93136585_245822913478469_5777198276988890686_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=k9n3Hshipn4AX8RAHlE&oh=7d0d06699d1924f9d41b8a5d46e566fb&oe=5EC2C102&ig_cache_key=MjI4NjMyOTc4MDkwOTY1OTQxNQ%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/93136585_245822913478469_5777198276988890686_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=k9n3Hshipn4AX8RAHlE&se=7&oh=e175aa7628e77352067af393aa1bfed2&oe=5EC2FDE5&ig_cache_key=MjI4NjMyOTc4MDkwOTY1OTQxNQ%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92818607_2540329746230931_8022917890767385327_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=-YwN_15tDSMAX_0ctwy&se=7&oh=f0944fd6f5ffbf65761d84f30c16f628&oe=5EC0F09D&ig_cache_key=MjI4NjMwOTAzODk1MjM2MzgxMA%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 122
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are happy to present Amritha Murali as one of the performers of our day long Tamil New Year celebrations as part of the Art Heals series. She will be joining us live tomorrow (Monday, April 14th) at 12 p.m. IST.\n\nAmritha Murali is one of the most talented, popular and sought after musicians of the current generation. Her exceptional musical instincts have been well nurtured by her parents and Gurus. She has, today, gained much acclaim and recognition within the music fraternity as an extremely gifted, well accomplished and sensitive musician.\n\nAmritha’s music has been honed by Vidvan Sri K R Kedaranathan, Vidushi  Smt Meera Kedaranathan and Vidushi Smt Rama Ravi. She is currently under the tutelage of Vidvan Sri P.S.Narayanaswamy and Vidvan Shri R.K.Shriramkumar for vocal music. She is also adept at playing the violin and trains under Vidushi Smt.T.Rukmini.\n\nHer music showcases the value of classicism that is reflective of a hoary tradition. Endowed with a perfect blend of mellifluous voice, sharp intellect and focus on the aesthetic, Amritha’s performances are marked with erudition and emotion.\n\nShe has performed for many premier institutions and centers all over India and abroad. She has many awards to her credit and her music has earned the appreciation of the cognoscenti and the lay person alike.  Amritha has to her credit\n\nUstad Bismillah Khan Yuva Puraskar  from the Sangeet Natak Akademi , New Delhi, “Kala Ratna ” from the Cleveland Tyagaraja Aradhana, “Yuva Kala Bharathi” from Bharat Kalachar, Chennai,\n\nKalki Krishnamurthy memorial award\n\nthe title of ‘Nada Oli’ from Nada Inbam, Chennai, Outstanding Vocalist award from the Music Academy,Chennai for many years, to name a few.\n\nShe has won numerous awards and prizes as a violin artiste as well. She has performed many a concert with her guru Smt.T.Rukmini and has accompanied on the violin many senior artistes all over the country and abroad.\n\nAmritha is an A-graded artiste of the All India Radio and Doordarshan, Chennai.\n\nShe was granted a fellowship by the Sangeet Natak Academy,New Delhi to learn advanced  ragam, tanam and pallavis under Vidvan Shri B.Krishnamoorthy."
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 1
+            },
+            "gating_info": null,
+            "id": "2286309042265815213",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B-6mfXnBHit",
+            "tags": [],
+            "taken_at_timestamp": 1586769298,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/92818607_2540329746230931_8022917890767385327_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=-YwN_15tDSMAX_0ctwy&oh=fce7ead3d85488751e50dfb06dcd2140&oe=5EC46124&ig_cache_key=MjI4NjMwOTAzODk1MjM2MzgxMA%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/92818607_2540329746230931_8022917890767385327_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=-YwN_15tDSMAX_0ctwy&oh=17e69d1723623f970c65787092c9e3f8&oe=5EC19826&ig_cache_key=MjI4NjMwOTAzODk1MjM2MzgxMA%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/92818607_2540329746230931_8022917890767385327_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=-YwN_15tDSMAX_0ctwy&oh=77bb70869085cd985617cd9726f88b11&oe=5EC3E45C&ig_cache_key=MjI4NjMwOTAzODk1MjM2MzgxMA%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/92818607_2540329746230931_8022917890767385327_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=-YwN_15tDSMAX_0ctwy&oh=79a34ce8500730e7642cc323b018e018&oe=5EC2AB9D&ig_cache_key=MjI4NjMwOTAzODk1MjM2MzgxMA%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92818607_2540329746230931_8022917890767385327_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=-YwN_15tDSMAX_0ctwy&oh=9001a0172d2904846262e44d3f55856f&oe=5EC35F27&ig_cache_key=MjI4NjMwOTAzODk1MjM2MzgxMA%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92818607_2540329746230931_8022917890767385327_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=-YwN_15tDSMAX_0ctwy&oh=9001a0172d2904846262e44d3f55856f&oe=5EC35F27&ig_cache_key=MjI4NjMwOTAzODk1MjM2MzgxMA%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92818607_2540329746230931_8022917890767385327_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=-YwN_15tDSMAX_0ctwy&se=7&oh=f0944fd6f5ffbf65761d84f30c16f628&oe=5EC0F09D&ig_cache_key=MjI4NjMwOTAzODk1MjM2MzgxMA%3D%3D.2",
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92462369_150949633017234_5975082638248048928_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=GBpLs_McTC8AX9N95Yg&se=7&oh=44a439c62b47039e30fe2e105528d721&oe=5EC3F0E0&ig_cache_key=MjI4NjMwOTAzODk2OTEwODQ5MQ%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92692297_225242225232612_1363983124213143684_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=bCRVZR5P26gAX8xcObe&se=7&oh=e6b148da863a3110faa59fa690811045&oe=5EC3C12C&ig_cache_key=MjI4NjI5MDgwMzIyNTk4MzkzNA%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 62
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are happy to introduce Yogi Digvasu who will be presenting a talk on ‘Holistic Lifestyle’ as part of our day long Tamil New Year celebrations as part the Art Heals series. She will be joining us live tomorrow (Tuesday, April 14th) at 1 p.m. IST.\n\nSri Digvasa is a holistic lifestyle coach and a teacher of classical Yoga. He faciliates\n\nCorporate workshops on Classical Hatha Yoga, Holistic Lifestyle, Stress Management, Personal Effectiveness, Raw Vegan Diet expert\n\nPublic Workshops on Classical Hatha Yoga, Successful & Happy Living, Holistic Lifestyle  Personal one to one Coaching, Counseling \nHis mission is to create a joyful, peaceful and a loving world by transforming humans life and consciousness to attain their ultimate well being.\n\n#artheals #artforall #samarpanaforartsandwellbeing #tamilnewyear2020"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2286290803225983934",
+            "is_video": false,
+            "media_preview": "ACoqwVXIHA6VG6nrjAqOloAljgaQZHSmOhQ4brWtaI5O3jG04+oFVr2NgFZuvegCpGVGd34cZqM4zxSUUAFFFXLKLzH5GRQBbtc7hu4I9ag1GUlxHyAn6n1/pW/DDGMxzcGPBVjwSh6H3IPykewPeqMkKSj5+TuJz7eg+vX6/jSbsVGLlsjFt7drhtq9O57D/PYd66BbG3AAK5wOpJ596mt440UDBAz2/wA8mk3VhJt7aI6Y00tHqzDFttG3AOe9W4UEP3OPfvRS11tEJLsPd2PI5PvQDJjO2kFKCayaN7hmb+7/AJ/Opw3r1qIE06s2i0f/2Q==",
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B-6iV9Lhvu-",
+            "tags": [
+                "artheals",
+                "tamilnewyear2020",
+                "artforall",
+                "samarpanaforartsandwellbeing"
+            ],
+            "taken_at_timestamp": 1586767124,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/92692297_225242225232612_1363983124213143684_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=bCRVZR5P26gAX8xcObe&oh=76144c0e97586d9c37dd0a51a14560b6&oe=5EC3536A&ig_cache_key=MjI4NjI5MDgwMzIyNTk4MzkzNA%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/92692297_225242225232612_1363983124213143684_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=bCRVZR5P26gAX8xcObe&oh=7ad84e2fa6df7be0d67db9d169cd7e2d&oe=5EC10124&ig_cache_key=MjI4NjI5MDgwMzIyNTk4MzkzNA%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/92692297_225242225232612_1363983124213143684_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=bCRVZR5P26gAX8xcObe&oh=be0e26f12cde4352b3a2167ed7fb0f82&oe=5EC2299A&ig_cache_key=MjI4NjI5MDgwMzIyNTk4MzkzNA%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/92692297_225242225232612_1363983124213143684_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=bCRVZR5P26gAX8xcObe&oh=c52814c5aead7827f9b2df75bb394392&oe=5EC457C4&ig_cache_key=MjI4NjI5MDgwMzIyNTk4MzkzNA%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92692297_225242225232612_1363983124213143684_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=bCRVZR5P26gAX8xcObe&oh=ad51bf0a9e62f209110e13c37d8a9243&oe=5EC2734F&ig_cache_key=MjI4NjI5MDgwMzIyNTk4MzkzNA%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92692297_225242225232612_1363983124213143684_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=bCRVZR5P26gAX8xcObe&oh=ad51bf0a9e62f209110e13c37d8a9243&oe=5EC2734F&ig_cache_key=MjI4NjI5MDgwMzIyNTk4MzkzNA%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92692297_225242225232612_1363983124213143684_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=bCRVZR5P26gAX8xcObe&se=7&oh=e6b148da863a3110faa59fa690811045&oe=5EC3C12C&ig_cache_key=MjI4NjI5MDgwMzIyNTk4MzkzNA%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/93089081_994944090901092_3278751162840661446_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=a0fF57usKRgAX-FbiSW&se=7&oh=e684e3d6dcc3141174c0ecb7e8644742&oe=5EC2599D&ig_cache_key=MjI4NjIzNDEzNzYyNTEzMDE1Mw%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 100
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are happy to introduce Dr. Sunita Menon who will be presenting a talk on 'Social Distancing and Mental Health' for our day long Tamil New Year celebrations as part the Art Heals series. She will be joining us live tomorrow (Tuesday, April 14th) at 5 p.m. IST.\n\nMs Sunita Menon is a Cognitive Behavioural Therapist in Private Practice in Chennai, India for almost 10 years now. she sees clients with issues ranging from personality disorders and addictions to pre-marital and couples counselling. Besides face to face sessions, web therapy is also offered to clients from across the globe besides India.\nwww.sunitacounsel.com\n\n#artheals #artforall #tamilnewyear2020 #samarpanaforartsandwellbeing"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2286234140661847188",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B-6VdaDhRSU",
+            "tags": [
+                "artheals",
+                "tamilnewyear2020",
+                "artforall",
+                "samarpanaforartsandwellbeing"
+            ],
+            "taken_at_timestamp": 1586760369,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/93089081_994944090901092_3278751162840661446_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=a0fF57usKRgAX-FbiSW&oh=fe6486fef30b12e05db9c37ca8f313d6&oe=5EC3BA5F&ig_cache_key=MjI4NjIzNDEzNzYyNTEzMDE1Mw%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/93089081_994944090901092_3278751162840661446_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=a0fF57usKRgAX-FbiSW&oh=8f130e138b185af3c1e519fefc851f49&oe=5EC11115&ig_cache_key=MjI4NjIzNDEzNzYyNTEzMDE1Mw%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/93089081_994944090901092_3278751162840661446_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=a0fF57usKRgAX-FbiSW&oh=4af095b36cb26feefb52128eb50f1ea2&oe=5EC17EAF&ig_cache_key=MjI4NjIzNDEzNzYyNTEzMDE1Mw%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/93089081_994944090901092_3278751162840661446_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=a0fF57usKRgAX-FbiSW&oh=f2882f0b51a9c154dd5fa487ab28b421&oe=5EC42275&ig_cache_key=MjI4NjIzNDEzNzYyNTEzMDE1Mw%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/93089081_994944090901092_3278751162840661446_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=a0fF57usKRgAX-FbiSW&oh=5abca8446f97ae14a688e1664a0c6f6e&oe=5EC235FA&ig_cache_key=MjI4NjIzNDEzNzYyNTEzMDE1Mw%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/93089081_994944090901092_3278751162840661446_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=a0fF57usKRgAX-FbiSW&oh=5abca8446f97ae14a688e1664a0c6f6e&oe=5EC235FA&ig_cache_key=MjI4NjIzNDEzNzYyNTEzMDE1Mw%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/93089081_994944090901092_3278751162840661446_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=a0fF57usKRgAX-FbiSW&se=7&oh=e684e3d6dcc3141174c0ecb7e8644742&oe=5EC2599D&ig_cache_key=MjI4NjIzNDEzNzYyNTEzMDE1Mw%3D%3D.2",
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/93110804_914178215692068_8670140701676202320_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=R5_MGmXvpUkAX_kZikb&se=7&oh=7a23f85e44843a43fda1bbfed178b795&oe=5EC2DD1F&ig_cache_key=MjI4NjIzNDEzNzY0MjA2NjM1MA%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92847816_168945957593896_7922239302727610740_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=oauh23F84vEAX8v8K-g&se=7&oh=0230d78d77267731977438a28a914cd6&oe=5EC1E904&ig_cache_key=MjI4NjE2NzAzOTc2NzEzNjIzNg%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 183
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are happy to introduce Vivek Sadasivam & Vinay Varanasi who will be presenting a session on 'Carnatic Music and Storytelling' for our day long Tamil New Year celebrations as part the Art Heals series. They will be joining us live tomorrow (Tuesday, April 14th) at 2 p.m. IST.\n\nTheir performance is an interpretation of certain rather unexplored facets of the Panchabhootalinga Kritis of Nadajyoti Muthuswamy Dikshitar through storytelling and music. Dikshitar has composed kritis in each of The Panchabhootam or 5 elements - earth, water, fire, air and sky in the respective kshetras and while it is vast topic,they hope to view it through a different lens and keep it engaging for viewers with interests in all forms of the arts.\n\nVinay Varanasi is an architect by profession. In the field of music, he takes up compositions, and expresses them visually through paintings. He is exploring collaborations with musicians to showcase the confluence of music and visual arts. His first endavour in this effort was a collaboration with ramakrishnan murthy titled-Kalaabhyaam. He has collaborated and curated programs with Vivek Sadasivam and Sumesh Narayanan in this regard.Vinays interest in Sahithya has also led him to co-translate the compositions of Yogi Nareyana of Kaiwara. He writes Pallavi lyrics, and these Pallavis have been tuned and sung by vidushis Ranjani and Gayatri, Ramakrishnan Murthy, and J.A Jayanth.\n\nVivek Sadasivam is a Carnatic musician hailing from the direct Shishya Parampara of Nadajyoti Muthuswamy Dikshitar. After initial training from his grandfather Sri. Anantharaman Iyer and grand-aunt Smt. A Champakavalli, he carried on learning from his father Sri. A. Sadasivam. He is currently under the tutelage of Vid. Rudrapatnam Thyagarajan and Vid. Sanjay Subrahmanyan. A performing musician, he has received recognitions from The Music Academy Madras, Shanmukhananda Fine Arts, Sri Rama Seva Mandali and several other music organisations. He is an empanelled artiste of the ICCR and an A  grade artiste of All India Radio and Bangalore. Vivek has performed across India and abroad and collaborated with various artistes across art forms."
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 3
+            },
+            "gating_info": null,
+            "id": "2286167042031954000",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B-6GM_lhShQ",
+            "tags": [],
+            "taken_at_timestamp": 1586752370,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/92847816_168945957593896_7922239302727610740_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=oauh23F84vEAX8v8K-g&oh=3ac308177be78574f91bf3b2f7e57cbb&oe=5EC0EA42&ig_cache_key=MjI4NjE2NzAzOTc2NzEzNjIzNg%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/92847816_168945957593896_7922239302727610740_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=oauh23F84vEAX8v8K-g&oh=06aa6190c3a9b8fdd318febe7051d7e1&oe=5EC44A0C&ig_cache_key=MjI4NjE2NzAzOTc2NzEzNjIzNg%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/92847816_168945957593896_7922239302727610740_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=oauh23F84vEAX8v8K-g&oh=94eb7004ed87094b499dff62b188cc2d&oe=5EC32DB2&ig_cache_key=MjI4NjE2NzAzOTc2NzEzNjIzNg%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/92847816_168945957593896_7922239302727610740_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=oauh23F84vEAX8v8K-g&oh=2ce97d3019148b621e94e934765cf395&oe=5EC3F5EC&ig_cache_key=MjI4NjE2NzAzOTc2NzEzNjIzNg%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92847816_168945957593896_7922239302727610740_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=oauh23F84vEAX8v8K-g&oh=fc7524c1e44e50ac7a46be261c80e2b0&oe=5EC272E7&ig_cache_key=MjI4NjE2NzAzOTc2NzEzNjIzNg%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92847816_168945957593896_7922239302727610740_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=oauh23F84vEAX8v8K-g&oh=fc7524c1e44e50ac7a46be261c80e2b0&oe=5EC272E7&ig_cache_key=MjI4NjE2NzAzOTc2NzEzNjIzNg%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92847816_168945957593896_7922239302727610740_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=oauh23F84vEAX8v8K-g&se=7&oh=0230d78d77267731977438a28a914cd6&oe=5EC1E904&ig_cache_key=MjI4NjE2NzAzOTc2NzEzNjIzNg%3D%3D.2",
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92759410_105683291011011_1869427678952274701_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=ZJbr_snFOsMAX-Yw6ou&se=7&oh=9aa1e59a6b2af2d2c8f3079c1ef85fa8&oe=5EC1579D&ig_cache_key=MjI4NjE2NzAzOTc1MDI4OTY3Ng%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92579806_234455784301359_2622679199644656145_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=nT4mHdF7y5EAX-Pjh2G&se=7&oh=c2b62ac231a14c6054f11a410156ef19&oe=5EC4BF98&ig_cache_key=MjI4NTc4OTc5NTA0NzUwMDEzMQ%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 151
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are happy to introduce Sumesh Narayanan as one of the performers of our day long Tamil New Year celebrations as part the Art Heals series. He will be joining us live on Tuesday, April 14th at 4 p.m. IST.\n\nSumesh has been under the tutelage of Mridangam Maestro Kalaimamani Sri Thiruvaarur Bakthavathsalam for more than 20 years and has acquired the nuances of the traditional gurukulam approach of learning.\n\nSumesh has been performing for more than a decade in the city's prestigious sabhas and also frequents many other cultural hubs in the country. He also has to his credit, the experiences of collaborating with a number of contemporary musicians in many world music ventures. Owing to the same, he has been featured in prestigious magazines like the Open magazine, Sruthi, Provoke Lifestyle and others on a number of occasions apart from newspaper reviews and articles.\n\nApart from being a classical performing artist, Sumesh has also been a part of a number of innovative outfits that cut across musical genres and styles resulting in a contemporary flavour that suits the mindset of the newer generation.\n\n#artheals #artforall #tamilnewyear2020 #samarpanaforartsandwellbeing"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 3
+            },
+            "gating_info": null,
+            "id": "2285789795047500131",
+            "is_video": false,
+            "media_preview": "ACoqw1XIHA6VGwPXGBTKKAHrGzcgGm1s6fg9yeSp44IKnj9KyHxuOOmTQAsZUZ3fhxmmHGeKSigAooooAswTtB8y9ffp+VRvhjx+fqfX2pqqznCgn6Vfhsj1k4z2HWk3YuMXLZFWK1eV9gGPU9gPX/Ct1bGAAArnHcnr71YjRAo6j6UzdWEm3tojojTS31f9bGILfaNvBz3qUWyL0G76n/IqanV1tEJLsMVnAwFAHoKcXkzwop1LWTRur92IGl/uVOD69ajBNOrNotebuf/Z",
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B-4wbU9BOlj",
+            "tags": [
+                "artheals",
+                "tamilnewyear2020",
+                "artforall",
+                "samarpanaforartsandwellbeing"
+            ],
+            "taken_at_timestamp": 1586707399,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/92579806_234455784301359_2622679199644656145_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=nT4mHdF7y5EAX-Pjh2G&oh=92ee83a42ac15c4dd392e067dd0938a6&oe=5EC0E8D6&ig_cache_key=MjI4NTc4OTc5NTA0NzUwMDEzMQ%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/92579806_234455784301359_2622679199644656145_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=nT4mHdF7y5EAX-Pjh2G&oh=5366bab32f41e54427c5a1c88d9b9de5&oe=5EC37020&ig_cache_key=MjI4NTc4OTc5NTA0NzUwMDEzMQ%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/92579806_234455784301359_2622679199644656145_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=nT4mHdF7y5EAX-Pjh2G&oh=acb4357764bb5b556486280e055b1fb7&oe=5EC44326&ig_cache_key=MjI4NTc4OTc5NTA0NzUwMDEzMQ%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/92579806_234455784301359_2622679199644656145_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=nT4mHdF7y5EAX-Pjh2G&oh=ea73963bae892b7b1671cbfd260e8be3&oe=5EC31580&ig_cache_key=MjI4NTc4OTc5NTA0NzUwMDEzMQ%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92579806_234455784301359_2622679199644656145_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=nT4mHdF7y5EAX-Pjh2G&oh=07f33f6bcdc44324581abed2b839e3ba&oe=5EC143F3&ig_cache_key=MjI4NTc4OTc5NTA0NzUwMDEzMQ%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92579806_234455784301359_2622679199644656145_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=nT4mHdF7y5EAX-Pjh2G&oh=07f33f6bcdc44324581abed2b839e3ba&oe=5EC143F3&ig_cache_key=MjI4NTc4OTc5NTA0NzUwMDEzMQ%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92579806_234455784301359_2622679199644656145_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=nT4mHdF7y5EAX-Pjh2G&se=7&oh=c2b62ac231a14c6054f11a410156ef19&oe=5EC4BF98&ig_cache_key=MjI4NTc4OTc5NTA0NzUwMDEzMQ%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/93008644_2792811174100930_889328065649521844_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=5SNVVXQxCn8AX9O9C-o&se=7&oh=37684ea771549eeef10269867bef6c25&oe=5EC418B4&ig_cache_key=MjI4NTc2NDI2Mzg5OTY3NjAwOA%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 911
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are happy to introduce Malavika Rajhesh as one of the performers of our day long Tamil New Year celebrations as part the Art Heals series. She will be joining us live tomorrow (Tuesday, April 14th) at 7 p.m. IST.\n\nMalavika started learning classical music at the age of 4 under her grandmother Smt. Kunnakkudy Bala. She has also been learning to play the Veena from her father Kalaimamani Shri. Rajhesh Vaidhya for a couple of years now.\n\nMalavika was a part of a renowned television Reality show  Super Singer Season 6 (Vijay TV) and bagged the 2nd runner’s up position in the same. Malavika now performs in live concerts worldwide like Canada, Durban, London, Switzerland, Australia, Singapore and the United States.\n\nMalavika released her first devotional album in the year 2015 named “JAGATHGURU” which was composed by her father Shri.Rajhesh Vaidhya.\n\nMalavika has performed along with many leading band acts in the industry such as Rajhesh Vaidhya Live , Stephen Devassy’s Solid Band , The Non-Violinist Project.\nShe recently performed with the living legend “Shri.S.P.Balasubrahmanyam” sir.\n\nMalavika is also a part of Do You Have A Minute Series Live where songs are performed exactly for 1 minute (An Initiative by Shri. Rajhesh Vaidhya). Malavika has been felicitated at various events. She was also a part of the record attempt (Asia Book of Records), where the team accomplished 60 songs in 60 minutes as a part of Do You Have A Minute Series Live which was lead by Shri.Rajhesh Vaidhya.\n\n#artheals #artforall #tamilnewyear #samarpanaforartsandwellbeing"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 1
+            },
+            "gating_info": null,
+            "id": "2285764263899676008",
+            "is_video": false,
+            "media_preview": "ACoqwlXIHA6VGynrjAplSbDQMnhhBxvwQ3vyPw/l2qtKnlsV9K0J4TFGh9SQeMdOfx6nmopYGlHmRjKoPmI9u/8AjigRViKjO78OM1GcZ46UUUAOHWtFgQm8deMVnp1rQZXERIBKf5/GgCaGPehgcn5uQT2ft+HY/WrQP2azbdwSCuPrwP8AGoFUtGC2d2P/ANX40+VTcACTIUc47k/56Um7FRi5bIx7e3a4bavTuew/z2Fb62NuAAVzjuSefeprdY41C4wPY/8A1+fqaTdWEm3todMaaW+r/rYxBb7Rjgk96tBdqFByOuD3Pv7UUtdbRCS7CB5PQfn2/wA/pTg0hBwoz/n/AOtSinAkdKyaNlfuw3Sdl4/Wpg3HPWowx9TS1m0aI//Z",
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B-4qnzOBb1o",
+            "tags": [
+                "tamilnewyear",
+                "artheals",
+                "artforall",
+                "samarpanaforartsandwellbeing"
+            ],
+            "taken_at_timestamp": 1586704355,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/93008644_2792811174100930_889328065649521844_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=5SNVVXQxCn8AX9O9C-o&oh=5fb436aeb5e9416304980961c084d215&oe=5EC3A2F2&ig_cache_key=MjI4NTc2NDI2Mzg5OTY3NjAwOA%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/93008644_2792811174100930_889328065649521844_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=5SNVVXQxCn8AX9O9C-o&oh=719143fd8eaf9c84b0870629d8bf6d1f&oe=5EC16FBC&ig_cache_key=MjI4NTc2NDI2Mzg5OTY3NjAwOA%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/93008644_2792811174100930_889328065649521844_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=5SNVVXQxCn8AX9O9C-o&oh=cc07ac31c651f4c390499a27b67d7573&oe=5EC44582&ig_cache_key=MjI4NTc2NDI2Mzg5OTY3NjAwOA%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/93008644_2792811174100930_889328065649521844_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=5SNVVXQxCn8AX9O9C-o&oh=6e62b1671d6e9ee33d17f893ee2033f4&oe=5EC42DDC&ig_cache_key=MjI4NTc2NDI2Mzg5OTY3NjAwOA%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/93008644_2792811174100930_889328065649521844_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=5SNVVXQxCn8AX9O9C-o&oh=d0185e01dfdf307b8b7de6ea55e357f5&oe=5EC418D7&ig_cache_key=MjI4NTc2NDI2Mzg5OTY3NjAwOA%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/93008644_2792811174100930_889328065649521844_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=5SNVVXQxCn8AX9O9C-o&oh=d0185e01dfdf307b8b7de6ea55e357f5&oe=5EC418D7&ig_cache_key=MjI4NTc2NDI2Mzg5OTY3NjAwOA%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/93008644_2792811174100930_889328065649521844_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=5SNVVXQxCn8AX9O9C-o&se=7&oh=37684ea771549eeef10269867bef6c25&oe=5EC418B4&ig_cache_key=MjI4NTc2NDI2Mzg5OTY3NjAwOA%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92784160_540894500143590_2342818867645291170_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=Ci3MMj3ha-gAX9QA4wm&se=7&oh=082ee44536ba359c17a4bb651391a34b&oe=5EC167D8&ig_cache_key=MjI4NTczNTY3Njc4MjAxMTM2NQ%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 1045
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are happy to introduce Ananya Bhat as one of the performers of our day long Tamil New Year celebrations as part the Art Heals series. She will be joining us live tomorrow (Tuesday, April 14th) at 10 a.m. IST.\n\nAnanya Bhat - daughter of renowned astrologer Vishwanath Bhat and homemaker & boutique owner Revati Puranik - is a multi-lingual playback singer, performer and actor.\n\nHer initiation into music began when she was five. She trained in singing under Vidwan K Guruprasad and Roopa Guruprasad, R.S.Nandakumar n later by Smt.Bhargavi , now she is learning under Vid. Ananth Bhagwat.\n\nShe entered Rangabhoomi (theatre) at age 10, where she learnt to face the stage and to perform. She also realised her singer's voice, thanks to the guidance of theatre greats like Raju Anantaswamy, Mandya Ramesh and Shivaji Rao Jadav. Not too far away was her training in classical music. Along with taking up junior and senior classical exams, she learned Hindustani music under Vidwan Veerbadrayya Hiremath.\n\nNotably, she is the winner of the 64th South Filmfare Award (for best playback singing – female) for singing 'Namma Kaayo Devane' in 'Rama Rame Re'.\nShe won Mahila sadhaki award -2018 from suvarna news channel for her achievement in art at a very young age.\nShe also grabbed her Star Singer award - 2019  from \"Chitthara magazine\" at their 10th year anniversary. She has collaborated with music directors from Kannada, Tamil, Telugu and Bollywood.She has sung for movie KGF which had 3 songs of her's in all 5 Languages it was released.\n\nShe has crooned many a tunes for special shows such as Yuva Dasara, Bengaluru Ganesha Utsava, Gaganachukki Bharachukki Utsava recently her performance at Isha Sadguru stole millions of people's heart along with the Sadguru Jaggi Vasudev's where he himself mentions in the video before she sings and is also found crying after her divine performance in front of adiyogi on the auspicious night of MAHASIVARATHRI. \nShe turned an actor on big screen with movie Urvi, Bhoothakala , Bhramaka n many more which are yet to get released. However, her roots in theatre remain strong.\n\n#artheals #artforall #tamilnewyear2020 #samarpanaforartsandwellbeing"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 1
+            },
+            "gating_info": null,
+            "id": "2285735676782011365",
+            "is_video": false,
+            "media_preview": "ACoqwguQOB0qNlPXGBTDTlG4gDkngCgB7RFUEmRhu3f8frUYrZFpK8QQ/LjjGfy56dayZI2hYo3UUAKmBnd/jUZ68UZNJigA+lXdOA89Sf4cn9P8apg4q3ZqXmUZwO+PTqaAOgZt3C/XrWBqBzMc8YAreLJF8oz7Vkm0M0heQ4HoOv59qTdioxctkUYLczttX8T2H+ewreWxtwACucdyTz71PBDGigD5R6Af5zTd1YSbfkjpjTS82Ygt9oxgHPerEUKxHcuc+uadS11tEJLsK7sDwM+tIHlP8P1/xpwpwJHSsmjbXuJulzgLxk8+3ap81GGPqaWs2jRH/9k=",
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B-4kHzZB2Pl",
+            "tags": [
+                "artheals",
+                "tamilnewyear2020",
+                "artforall",
+                "samarpanaforartsandwellbeing"
+            ],
+            "taken_at_timestamp": 1586700947,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/92784160_540894500143590_2342818867645291170_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=Ci3MMj3ha-gAX9QA4wm&oh=19135f6618d31b9abb45075afa5dbf67&oe=5EC34196&ig_cache_key=MjI4NTczNTY3Njc4MjAxMTM2NQ%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/92784160_540894500143590_2342818867645291170_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=Ci3MMj3ha-gAX9QA4wm&oh=444719012e3b4cc9650307240e2b4264&oe=5EC45860&ig_cache_key=MjI4NTczNTY3Njc4MjAxMTM2NQ%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/92784160_540894500143590_2342818867645291170_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=Ci3MMj3ha-gAX9QA4wm&oh=1611e1757d9993478024003f736fa128&oe=5EC45FE6&ig_cache_key=MjI4NTczNTY3Njc4MjAxMTM2NQ%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/92784160_540894500143590_2342818867645291170_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=Ci3MMj3ha-gAX9QA4wm&oh=f570090693011ad8eb72f7dd37a8efe1&oe=5EC10340&ig_cache_key=MjI4NTczNTY3Njc4MjAxMTM2NQ%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92784160_540894500143590_2342818867645291170_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=Ci3MMj3ha-gAX9QA4wm&oh=215d08e7d8b942d2de328a10207e4480&oe=5EC45D33&ig_cache_key=MjI4NTczNTY3Njc4MjAxMTM2NQ%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92784160_540894500143590_2342818867645291170_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=Ci3MMj3ha-gAX9QA4wm&oh=215d08e7d8b942d2de328a10207e4480&oe=5EC45D33&ig_cache_key=MjI4NTczNTY3Njc4MjAxMTM2NQ%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92784160_540894500143590_2342818867645291170_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=Ci3MMj3ha-gAX9QA4wm&se=7&oh=082ee44536ba359c17a4bb651391a34b&oe=5EC167D8&ig_cache_key=MjI4NTczNTY3Njc4MjAxMTM2NQ%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92672132_544128423174860_6582817155953405590_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=q3XtS79oBlQAX8ACCD0&se=7&oh=36b079154c6710a2cac2f44cdf6b250c&oe=5EC37D82&ig_cache_key=MjI4NTY1Njc0NzcxNDk0MzA4OA%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 172
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are happy to introduce Pavitra Krishna Bhat as the next dancer in the Art Heals series. He will be joining us live tomorrow (Monday, April 13th) at 6 p.m. IST.\n\nPavitra is one of the most distinguished disciples of the renowned Bharatanatyam exponent Guru Shri Deepak Mazumdar and had his initial training from Kalanjali under Kumari Vasantha. “Clarity and geometry marked this slim dancer’s movements, while his footwork was powerful.“ said The Hindu. Termed as an effortless dancer with precise movements Pavitra has been appreciated for his pure dance and sensitive Abhinaya by critics, connoisseurs and peers. Pavitra is an extremely vibrant and graceful performer.  It is a treat to watch him live on stage.\nAn ICCR Empanelled artist and ‘A Grade’ artist of Doordarshan ,  For his constant efforts , he has been awarded and recognised with Acharya Vishwanath Dev Sharma Talent search Award by Vedic Heritage, New York. \nLakshmi Vishwanathan Award for Abhinaya by Krishna Gana Sabha ,Chennai\n\nYUVA KALA BHARATHI\n\nAarsha Kala Choodamani Title conferred by Shri Dayaananda Saraswati ji in Pennsylvania (USA)\n\nPANDIT BHIMSEN JOSHI Award\n\nKALA RATNA AWARD – CLEVELAND –USA\n\nSHANMUKHA SANGEETHA SHIROMANI\n\nToured toured Dubai, Canada, Malaysia, Indonesia and USA  for performances also toured all over India for showing his talent.\n\nTo fulfil his urge to teach and spread knowledge to local talents he began P.A.V.I. (Pavitra Art Visual Institute), A Bharatanatyam Institute established in a suburb of Mumbai.\n\n#artheals #artforall #samarpanaforartsandwellbeing"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 1
+            },
+            "gating_info": null,
+            "id": "2285656747714943088",
+            "is_video": false,
+            "media_preview": "ACoqxprhw7DcwwxxgnGMmojcydnf8zTJv9Y3+8f51JaIjvh+R6Zx+v8ATvUpIpt3GfaZf77fmaPtMv8Afb8zU1xZvGSVBZOzY/n6VTp2QrvuXBLIV3b2z/vf5NbMLkxqTySo/lXNVvwt+7X/AHR/Ks5o3p6tmJL99vqf51owGOFF3gDcOSRn73T8BWbJ98/U/wA6V5C+AegrUwe5t2MrJKYmB4Xtzn3+npUF0IpOwBxyRxz/AFqvb3pj69hgHuPb6VWeRSMLn8cc8+nb9aBETDBwK14j8i/QfyrHNakZ+UfQfyqWrm1N2bM2T7x+pqZZHbkkDH0z+pFWdinsPyo2L6D8quxmV+fUf+O/40hyOQVP/fP19as7F9B+VGxfQflRYNTOJzzWjGflH0H8qNi+g/KlppDWh//Z",
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B-4SLO-Bhhw",
+            "tags": [
+                "artheals",
+                "artforall",
+                "samarpanaforartsandwellbeing"
+            ],
+            "taken_at_timestamp": 1586691538,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/92672132_544128423174860_6582817155953405590_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=q3XtS79oBlQAX8ACCD0&oh=f32075231c134b2b32744ee97d31246e&oe=5EC147C4&ig_cache_key=MjI4NTY1Njc0NzcxNDk0MzA4OA%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/92672132_544128423174860_6582817155953405590_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=q3XtS79oBlQAX8ACCD0&oh=58aa76a7b2fbd485307eb182114e6d0f&oe=5EC4878A&ig_cache_key=MjI4NTY1Njc0NzcxNDk0MzA4OA%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/92672132_544128423174860_6582817155953405590_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=q3XtS79oBlQAX8ACCD0&oh=651e47abe033f881a4160bc8347970ed&oe=5EC3C234&ig_cache_key=MjI4NTY1Njc0NzcxNDk0MzA4OA%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/92672132_544128423174860_6582817155953405590_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=q3XtS79oBlQAX8ACCD0&oh=879d256273044aaff187b96a61b6a4d7&oe=5EC1116A&ig_cache_key=MjI4NTY1Njc0NzcxNDk0MzA4OA%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92672132_544128423174860_6582817155953405590_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=q3XtS79oBlQAX8ACCD0&oh=16fcafd2e75777477fcba04c93c43878&oe=5EC27F65&ig_cache_key=MjI4NTY1Njc0NzcxNDk0MzA4OA%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92672132_544128423174860_6582817155953405590_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=q3XtS79oBlQAX8ACCD0&oh=16fcafd2e75777477fcba04c93c43878&oe=5EC27F65&ig_cache_key=MjI4NTY1Njc0NzcxNDk0MzA4OA%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92672132_544128423174860_6582817155953405590_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=q3XtS79oBlQAX8ACCD0&se=7&oh=36b079154c6710a2cac2f44cdf6b250c&oe=5EC37D82&ig_cache_key=MjI4NTY1Njc0NzcxNDk0MzA4OA%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92818780_362589897961960_3276739712061735821_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=3v2HSDbKOicAX90sR4y&se=7&oh=0c4496c0d3d6e7d6ec6387350b474574&oe=5EC25D32&ig_cache_key=MjI4NTYyNTAxNjE3NzczMTQwOQ%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 397
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are thrilled to reveal the next set of seven amazing dancers who will be coming together for Art Heals Week 4.\n\nPlease do join us on our Instagram Live every day at 6 P.M. IST to watch the beautiful performances of these artistes.\n\n#artheals #artforall #stayhome #fightingcovidtogether #samarpanaforartsandwellbeing"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 3
+            },
+            "gating_info": null,
+            "id": "2285625019566753150",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B-4K9h1BYV-",
+            "tags": [
+                "artheals",
+                "artforall",
+                "fightingcovidtogether",
+                "stayhome",
+                "samarpanaforartsandwellbeing"
+            ],
+            "taken_at_timestamp": 1586687756,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/92818780_362589897961960_3276739712061735821_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=3v2HSDbKOicAX90sR4y&oh=27c45c1faae15eb372cadf782d0b9df9&oe=5EC1BD74&ig_cache_key=MjI4NTYyNTAxNjE3NzczMTQwOQ%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/92818780_362589897961960_3276739712061735821_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=3v2HSDbKOicAX90sR4y&oh=448eb400c7723c39fa79b10ac63930ab&oe=5EC2FA3A&ig_cache_key=MjI4NTYyNTAxNjE3NzczMTQwOQ%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/92818780_362589897961960_3276739712061735821_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=3v2HSDbKOicAX90sR4y&oh=1459d614f04b7d6397d5fd7a216d1202&oe=5EC47D84&ig_cache_key=MjI4NTYyNTAxNjE3NzczMTQwOQ%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/92818780_362589897961960_3276739712061735821_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=3v2HSDbKOicAX90sR4y&oh=d80278ab82a46167affa3042e2b7fdaa&oe=5EC1415A&ig_cache_key=MjI4NTYyNTAxNjE3NzczMTQwOQ%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92818780_362589897961960_3276739712061735821_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=3v2HSDbKOicAX90sR4y&oh=b1f3692451cb7260a02b994e97dacc26&oe=5EC1FBD5&ig_cache_key=MjI4NTYyNTAxNjE3NzczMTQwOQ%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92818780_362589897961960_3276739712061735821_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=3v2HSDbKOicAX90sR4y&oh=b1f3692451cb7260a02b994e97dacc26&oe=5EC1FBD5&ig_cache_key=MjI4NTYyNTAxNjE3NzczMTQwOQ%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92818780_362589897961960_3276739712061735821_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=3v2HSDbKOicAX90sR4y&se=7&oh=0c4496c0d3d6e7d6ec6387350b474574&oe=5EC25D32&ig_cache_key=MjI4NTYyNTAxNjE3NzczMTQwOQ%3D%3D.2",
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92554638_515555909125807_3304549292702514703_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=Ar10FsLTvrQAX9eeBxt&se=7&oh=067d279a7e5c88549b3e5686acf7c8ec&oe=5EC442CD&ig_cache_key=MjI4NTYyNTAxNjE2MDk1NTM1OA%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/93359069_657823701723330_4759963482661917008_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=iIhd54dRfzIAX_HZRPF&se=7&oh=6e2cdcb1de6a93708d20c2b56266bede&oe=5EC1BCF7&ig_cache_key=MjI4NTU1ODM1Nzg0OTE3MDk0NQ%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 124
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are happy to present Amritha Murali as the next musician in the Art Heals series. She will be joining us live tomorrow (Monday, April 13th) at 12:30 p.m. IST\n\nAmritha Murali is one of the most talented, popular and sought after musicians of the current generation. Her exceptional musical instincts have been well nurtured by her parents and Gurus. She has, today, gained much acclaim and recognition within the music fraternity as an extremely gifted, well accomplished and sensitive musician.\n\nAmritha’s music has been honed by Vidvan Sri K R Kedaranathan, Vidushi  Smt Meera Kedaranathan and Vidushi Smt Rama Ravi. She is currently under the tutelage of Vidvan Sri P.S.Narayanaswamy and Vidvan Shri R.K.Shriramkumar for vocal music. She is also adept at playing the violin and trains under Vidushi Smt.T.Rukmini.\n\nHer music showcases the value of classicism that is reflective of a hoary tradition. Endowed with a perfect blend of mellifluous voice, sharp intellect and focus on the aesthetic, Amritha’s performances are marked with erudition and emotion.\n\nShe has performed for many premier institutions and centers all over India and abroad. She has many awards to her credit and her music has earned the appreciation of the cognoscenti and the lay person alike.  Amritha has to her credit\n\nUstad Bismillah Khan Yuva Puraskar  from the Sangeet Natak Akademi , New Delhi, “Kala Ratna ” from the Cleveland Tyagaraja Aradhana, “Yuva Kala Bharathi” from Bharat Kalachar, Chennai,\n\nKalki Krishnamurthy memorial award\n\nthe title of ‘Nada Oli’ from Nada Inbam, Chennai, Outstanding Vocalist award from the Music Academy,Chennai for many years, to name a few.\n\nShe has won numerous awards and prizes as a violin artiste as well. She has performed many a concert with her guru Smt.T.Rukmini and has accompanied on the violin many senior artistes all over the country and abroad.\n\nAmritha is an A-graded artiste of the All India Radio and Doordarshan, Chennai.\n\nShe was granted a fellowship by the Sangeet Natak Academy,New Delhi to learn advanced  ragam, tanam and pallavis under Vidvan Shri B.Krishnamoorthy.\n\n#artheals #artforall"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2285558357849170945",
+            "is_video": false,
+            "media_preview": "ACoq2VjYlSoTZt+bI+bPb8KsCJe6r+VEH+rX/dH8qkNSkrbFNu7Mt7nLMIYhIEOGOQMkdQvBzjueBVi0miuk3KoBBwykDIPpVCGHyhsDMPlwSMcHPUDvn8asWEQjllIIO7acd+AQSR2yc/lTsuwrstEAPjaNv+7/AF6VQkOGI9Cf51s1gTN+8b/eP86ymtjenq2bNv8A6pP90fyp0kgQc9e31plt/qk/3V/kKdIgbrWxg92YUJmhjZpWAbJIHH4DP+FU9LndJ9xGd/yn8+v1BroJLYSDnk+vtSQ2aRnPHFAi/XNTt+8b/eP8zXS1ytwf3r/7zfzNS1c3pOzZ0dt/qU/3V/kKSWMMc7cn1/yRXLC4lAwHYAdBuP8AjR9pl/vv/wB9H/GrsZHTeVnPydRj/PzUJCA2dv5H/wCyrmftMv8Aff8A76P+NH2mX++//fR/xosGvc7GuSuT+9f/AHm/maj+0y/33/76P+NRkk8nkmqSHHQ//9k=",
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B-37zeRBmQB",
+            "tags": [
+                "artheals",
+                "artforall"
+            ],
+            "taken_at_timestamp": 1586679809,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/93359069_657823701723330_4759963482661917008_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=iIhd54dRfzIAX_HZRPF&oh=a32155dd820e74b4990c46b74ddf8ba0&oe=5EC3A235&ig_cache_key=MjI4NTU1ODM1Nzg0OTE3MDk0NQ%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/93359069_657823701723330_4759963482661917008_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=iIhd54dRfzIAX_HZRPF&oh=118eae429b2480b10766dd1e67ee04da&oe=5EC13F7F&ig_cache_key=MjI4NTU1ODM1Nzg0OTE3MDk0NQ%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/93359069_657823701723330_4759963482661917008_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=iIhd54dRfzIAX_HZRPF&oh=9ffb1ac9bd06ad25a1845f195485a6fb&oe=5EC2EF45&ig_cache_key=MjI4NTU1ODM1Nzg0OTE3MDk0NQ%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/93359069_657823701723330_4759963482661917008_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=iIhd54dRfzIAX_HZRPF&oh=b4afb0791c6b7a1570eea1e9fe789817&oe=5EC3EB9F&ig_cache_key=MjI4NTU1ODM1Nzg0OTE3MDk0NQ%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/93359069_657823701723330_4759963482661917008_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=iIhd54dRfzIAX_HZRPF&oh=1ce861ec9935432b2329844125c22b96&oe=5EC1D914&ig_cache_key=MjI4NTU1ODM1Nzg0OTE3MDk0NQ%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/93359069_657823701723330_4759963482661917008_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=iIhd54dRfzIAX_HZRPF&oh=1ce861ec9935432b2329844125c22b96&oe=5EC1D914&ig_cache_key=MjI4NTU1ODM1Nzg0OTE3MDk0NQ%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/93359069_657823701723330_4759963482661917008_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=iIhd54dRfzIAX_HZRPF&se=7&oh=6e2cdcb1de6a93708d20c2b56266bede&oe=5EC1BCF7&ig_cache_key=MjI4NTU1ODM1Nzg0OTE3MDk0NQ%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92962920_2876069649149077_1314501268974432849_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=CJLaVJA1O7wAX_xzaJx&se=7&oh=f4b22b6dc7c97f3be3619ddd7ec2ce94&oe=5EC295C8&ig_cache_key=MjI4NTA4MjAyNTYyNTI2NTg4OA%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 2161
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "April 14 is Tamil new year day and we at Samarpana have more reasons to rejoice. We know what we are currently going through are tough times. But please remember “this too shall pass”\n\nWe have to show our solidarity in this unprecedented fight against Corona and we shall come out of this with more positivity, more power and more compassion to other beings 🙏\n\nTo keep the spirit going, we are extremely happy to put together a series of live sessions from 7.30 am to 8 pm on April 14. Please do join us and kindly spread the word. We'd like to take this opportunity to thank all the artistes from the bottom of our hearts who have graciously accepted to perform. While we are able to enjoy the comforts of our home, let us remember the daily wage workers whose lives have come to a standstill because of COVID and contribute as much as we can for their well-being.\n\nWe request you to attend the live series and just forget everything else and immerse yourselves in one day of unlimited calming, enriching and entertaining sessions.\n\n#artheals #artforall #fightingcovidtogether #stayhome"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 13
+            },
+            "gating_info": null,
+            "id": "2285082028997363366",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B-2Pf-dBEam",
+            "tags": [
+                "stayhome",
+                "artheals",
+                "fightingcovidtogether",
+                "artforall"
+            ],
+            "taken_at_timestamp": 1586623026,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/92962920_2876069649149077_1314501268974432849_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=CJLaVJA1O7wAX_xzaJx&oh=c1c5867f91d297a42fab1b09dd152524&oe=5EC216F9&ig_cache_key=MjI4NTA4MjAyNTYyNTI2NTg4OA%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/92962920_2876069649149077_1314501268974432849_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=CJLaVJA1O7wAX_xzaJx&oh=be65601e0df68f339830645a46ca792b&oe=5EC2C07F&ig_cache_key=MjI4NTA4MjAyNTYyNTI2NTg4OA%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/92962920_2876069649149077_1314501268974432849_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=CJLaVJA1O7wAX_xzaJx&oh=5095badb0c7be5e4e98a79e334b7547d&oe=5EC1BC81&ig_cache_key=MjI4NTA4MjAyNTYyNTI2NTg4OA%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/92962920_2876069649149077_1314501268974432849_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=CJLaVJA1O7wAX_xzaJx&oh=1118451768a299dbe784005fd6f69397&oe=5EC4BC48&ig_cache_key=MjI4NTA4MjAyNTYyNTI2NTg4OA%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92962920_2876069649149077_1314501268974432849_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=CJLaVJA1O7wAX_xzaJx&oh=1d1135854a7d9e6e89a727fa05b71184&oe=5EC43AFE&ig_cache_key=MjI4NTA4MjAyNTYyNTI2NTg4OA%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92962920_2876069649149077_1314501268974432849_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=CJLaVJA1O7wAX_xzaJx&oh=1d1135854a7d9e6e89a727fa05b71184&oe=5EC43AFE&ig_cache_key=MjI4NTA4MjAyNTYyNTI2NTg4OA%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92962920_2876069649149077_1314501268974432849_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=CJLaVJA1O7wAX_xzaJx&se=7&oh=f4b22b6dc7c97f3be3619ddd7ec2ce94&oe=5EC295C8&ig_cache_key=MjI4NTA4MjAyNTYyNTI2NTg4OA%3D%3D.2",
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92495594_924098578024557_4369066467629257644_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=Mc2cIjeS2KQAX9Cc_vw&se=7&oh=af5b85d5ef4b57dd4de1a9bc92b7f7b2&oe=5EC1E884&ig_cache_key=MjI4NTA4MjAyNTYwODQzNDIwMQ%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/93501854_2689850227911612_2886915241911640087_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=xw_3CYuGnHcAX9jX1I2&se=7&oh=478d7f6e5bd63737c143a820febf3f16&oe=5EC2A6FC&ig_cache_key=MjI4NTAwMzg1NjUyNDI0OTg2MQ%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 254
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are happy to present Smt. Indira Kadambi as the next dancer in the Art Heals series. She will be joining us live tomorrow (Sunday, April 12th) at 6 p.m. IST. \"An artist who has won enough critical acclaim, Indira Kadambi is a connoisseur's delight, is known as dancers dancer, yet is so deeply rooted and approaches art form with a reverence that few artists are able to maintain after becoming a globally known brand themselves..\" -Swapna Narayanan, Eyra.\n\nA woman of substance for whom Bharatanatyam is a personal statement, Indira is one of the prime students of Abhinaya doyen Guru Smt. Kalanidhi Narayanan. Initially trained under\rGuru Sri. Janardhan Sharma, Smt.Usha Datar and Smt.Narmada, Indira has travelled all over\rthe world for performances and workshops inspiring hundreds of students and teachers. A\rteacher par excellence, Indira is the Director of eAmbalam, the World’s first Online College\rof Indian Performing Arts, a state of Art blended e-learning platform, where students are\rtrained holistically through practical, innovative and niche teaching methodology. She is the\rcontent creator for Life Art Education where over 20000 children are trained under a niche\rK12 value based education program established by her well known musician husband Vidwan\rT.V.Ramprasadh.\n\nIndira has choreographed and performed several unique solo productions such as Vamshi - The\rDivine Flute, Hasya -  The Humor, Varsha Rithu - The Monsoon, Purusha Parinaam - Man Through Times, to name a few. She recently created history in the field of Bharatanatyam by reviving the art of performing a Margam for 4 hours.\n\nFor her contribution to the field, Indira Kadambi has been honoured with titles 'Vidya Tapaswi' from Tapas\rFoundation Chennai, 'Nrithya Kala Sagara' from Cleveland Thyagaraja Aradhana and 'Outstanding\rSenior Dancer Award' from Natyarangam, Chennai.\n\n#artheals #artforall"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 1
+            },
+            "gating_info": null,
+            "id": "2285003856524249861",
+            "is_video": false,
+            "media_preview": "ACoqyJ7qRZHAdxhzjDHAGTUJu5ezv/30f8aZcf61/wDeP86iAzUpK2xTbuWRcXBBYO+B1O48Z/Gm/a5v77/99H/Grlpbu0Z+XIbvn8MfX07d6ozxNE5DDbnkDrx25p2XYV2TieYru8xs/wC+f/110Vu5MSE8kquSfoK5Cunt2/dp/ur/ACFY1Fojenq2c7P/AKxv94/zpfK2p5jcZ+6O59/pRI2JGOM8n+dN8wlgzc4/zj6VuYPdnR21wI4Qu0njnHX3PPX86yL1jcsZV5C4XGOQPf8AGhb8gYx169vyqu05Dl0+XPUdj9R3oEV66CE/u1/3R/KsFiDyBitqI/Iv+6P5VLVzopOzZjy/fb6n+dPiZgMAgD3xn9SK0fLU9h+QpPLT0H5CtLGNikSeuR6fw/40jZxgEEfVR/Wr3lp6D8hR5aeg/IUWDXuZFbMR+RfoP5Unlp6D8hTsYppFR0P/2Q==",
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B-19uaqhosF",
+            "tags": [
+                "artheals",
+                "artforall"
+            ],
+            "taken_at_timestamp": 1586613708,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/93501854_2689850227911612_2886915241911640087_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=xw_3CYuGnHcAX9jX1I2&oh=075674ee550310b08189857af8016c53&oe=5EC417C5&ig_cache_key=MjI4NTAwMzg1NjUyNDI0OTg2MQ%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/93501854_2689850227911612_2886915241911640087_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=xw_3CYuGnHcAX9jX1I2&oh=7902b5fd0afee59f9f5ccf50a0b5a8b0&oe=5EC45343&ig_cache_key=MjI4NTAwMzg1NjUyNDI0OTg2MQ%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/93501854_2689850227911612_2886915241911640087_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=xw_3CYuGnHcAX9jX1I2&oh=99a64766c124d8828064b6b8e79d891b&oe=5EC379BD&ig_cache_key=MjI4NTAwMzg1NjUyNDI0OTg2MQ%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/93501854_2689850227911612_2886915241911640087_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=xw_3CYuGnHcAX9jX1I2&oh=09cc836c8cefe7e5c92a8049d878b06e&oe=5EC262FC&ig_cache_key=MjI4NTAwMzg1NjUyNDI0OTg2MQ%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/93501854_2689850227911612_2886915241911640087_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=xw_3CYuGnHcAX9jX1I2&oh=c3cfad6c8968ec241ee168c33dae1e22&oe=5EC460C2&ig_cache_key=MjI4NTAwMzg1NjUyNDI0OTg2MQ%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/93501854_2689850227911612_2886915241911640087_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=xw_3CYuGnHcAX9jX1I2&oh=c3cfad6c8968ec241ee168c33dae1e22&oe=5EC460C2&ig_cache_key=MjI4NTAwMzg1NjUyNDI0OTg2MQ%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/93501854_2689850227911612_2886915241911640087_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=xw_3CYuGnHcAX9jX1I2&se=7&oh=478d7f6e5bd63737c143a820febf3f16&oe=5EC2A6FC&ig_cache_key=MjI4NTAwMzg1NjUyNDI0OTg2MQ%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92827216_646526119252055_2880812178616112772_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=nBXDRP3THgsAX9Wvq_r&se=7&oh=403309599ea51daf9de184907e85ad75&oe=5EC46149&ig_cache_key=MjI4NDMwNzcyMTE4NjgzNDcxNQ%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 259
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are happy to present G. Narendra as the next dancer in the Art Heals series. He will be joining us live tomorrow (Saturday, April 11th) at 6 p.m. IST.\n\nNarendra is a post graduate from Kalakshetra Foundation and the Founder/Director of Avigna Dance Ensemble. He has\rchoreographed several dance productions including 'Abhyasa', 'The Living Tree’, ‘Silappadikaram’, successfully toured world\rover and won critical acclaim. Narendra has collaborated in productions with several Indian and International organizations and is well known for his excellent technique. A dancer who is lauded for his stage presence, is also associated with premier Natya institutions, offering creative support for their productions.\n\nNarendra's constant thirst to innovate drives him to explore differentiated spaces to demonstrate his art. This drives him seek\r\nopportunities to collaborate with artists, institutions and spaces which transgress the defined boundaries in which Natya is presented. He looks forward to performing in intimate spaces and chamber concerts that provide audience an opportunity to experience art up- close and connect with the emotional journey of the presenter. With the background of his traditional learning blended with contemporary perspective, Narendra often expresses himself through writing, dialogue and conversations.\n\nWhile in Kalakshetra, Narendra has performed lead roles in the ballets and productions. He has been associated with several\rproductions and institutions internationally including:\n\nCleveland Cultural Alliance, USA as Artistic Director and Resident Teacher • Pivotal roles in productions like Jungle Book in association with Ohio Ballet\n\nPerformed at Millennium Mission Congress at St. Peter Square\n‘Farce of The Drunken Monks’ for Sankalpam, a U.K based Dance Company. ‘Shingikaku’ a Japanese production for the internationally known Smithsonian Dance Festival\n\nPA (People’s Association Singapore) to choreograph and perform Navarasa Ramayana along with SIOC(Singapore Indian Orchestra And Choir)\n\nKhujuraho Festival, India\n\n#artheals #artforall"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2284307721186834715",
+            "is_video": false,
+            "media_preview": "ACoqyri7lWVwHcYc4AY4Aye1QG8m7SP/AN9H/GmXP+tf/eb+ZqCpSVloU2Wftk//AD0f/vo/40C7nPAkf/vo/wCNWbNF2M5xnpz6VnsecjjmnZdhXLnnz7cmRwfTef5da6a2ctEhJySqkk/QVyVzkyEnvg/pXSW7/uk/3V/kKxqLRGtP3jmp/wDWN/vH+dWLKJCTJJyq8AepPQe9Vp/9Y3+8f505LiRBtU4Arcye7OjfywNvG0dsADj2rJluoQxAiU4OB2/lTVvgikYyT1JrOJyc0CHSOZGLHvXQQH92v+6P5VzldBCf3a/7o/lUtXOijuzDm++3+8f50sY75A7dR/IkVreWh5IH5Cjyk/uj8hWnKY2M8knuv/jv+NMdSR1Bx7qP61p+Un90fkKPKT+6PyFHKP5mJW5EfkX/AHR/Kk8pP7o/IU7GOBVJFR0P/9k=",
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B-zfcUHBfkb",
+            "tags": [
+                "artheals",
+                "artforall"
+            ],
+            "taken_at_timestamp": 1586530722,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/92827216_646526119252055_2880812178616112772_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=nBXDRP3THgsAX9Wvq_r&oh=7da2925fbcab43cb99cd7803078c1426&oe=5EC2BB0B&ig_cache_key=MjI4NDMwNzcyMTE4NjgzNDcxNQ%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/92827216_646526119252055_2880812178616112772_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=nBXDRP3THgsAX9Wvq_r&oh=e73c710f0bd46bc20440f7023836dd5f&oe=5EC1A641&ig_cache_key=MjI4NDMwNzcyMTE4NjgzNDcxNQ%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/92827216_646526119252055_2880812178616112772_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=nBXDRP3THgsAX9Wvq_r&oh=54d5e4adc639c7a3cd5a96cb591739fd&oe=5EC4B77B&ig_cache_key=MjI4NDMwNzcyMTE4NjgzNDcxNQ%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/92827216_646526119252055_2880812178616112772_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=nBXDRP3THgsAX9Wvq_r&oh=9746ce64289f0503fd879cc5e30e4194&oe=5EC335A1&ig_cache_key=MjI4NDMwNzcyMTE4NjgzNDcxNQ%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92827216_646526119252055_2880812178616112772_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=nBXDRP3THgsAX9Wvq_r&oh=a631a30bd25bb1dea894063a2040d81a&oe=5EC1072E&ig_cache_key=MjI4NDMwNzcyMTE4NjgzNDcxNQ%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92827216_646526119252055_2880812178616112772_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=nBXDRP3THgsAX9Wvq_r&oh=a631a30bd25bb1dea894063a2040d81a&oe=5EC1072E&ig_cache_key=MjI4NDMwNzcyMTE4NjgzNDcxNQ%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92827216_646526119252055_2880812178616112772_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=nBXDRP3THgsAX9Wvq_r&se=7&oh=403309599ea51daf9de184907e85ad75&oe=5EC46149&ig_cache_key=MjI4NDMwNzcyMTE4NjgzNDcxNQ%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92818734_533402434045760_4204859125607375884_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=GgV6_xMHDUEAX-njDnl&se=7&oh=52146cd20f8e61037d10c686a0dc9a70&oe=5EC437FA&ig_cache_key=MjI4NDEzNDQ2NzIwNTYyMTM3Nw%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 115
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are happy to present Rangappriya Sannkaranarayanan as the next musician in the Art Heals series. She will be joining us live tomorrow (Saturday, April 11th) at 12:30 p.m. IST.\n\nRangappriya Sankaranarayanan is a passionate violinist who has been receiving rigorous training in Indian classical violin since the age of ten. She began her training under the guidance of Sangeetha Rathnam Sri. T. S. Rajagopala Iyer. She has also learnt from Padma Shri awardee Sangita Kalanidhi A. Kanyakumari. Since 2013, Rangappriya has been under the able tutelage of Kalaimamani Embar S. Kannan.\n\nRangappriya is an experienced performer on stage, having performed extensively in concerts with both her teachers A. Kanyakumari and Embar Kannan. She is proficient in all three avenues - as part of group violin concerts, as an accompanying artiste and in performing duets. Winning first place in the Carnatic solo violin competitions organised by Sabha-s like the Mylapore Fine Arts, Chennai and Rasika Ranjani Sabha, Trichy among several others are testimony to her skill and training. Rangappriya strives to be a complete musician and has also acquired knowledge on the technical front of music production, owing to the exposure given to her by her teacher Embar Kannan, whom she has accompanied to many a recording studio. She is now training in the theory of Western classical music from Trinity College, London. Apart from playing the violin, her interests include composing scores and doing voice overs.\n\nShe is currently pursuing a Bachelor’s degree in Dental Surgery (BDS) at SRM Dental College, Ramapuram and is in her final year.\n\nSome notable achievements of Rangappriya are:\n\nStarting an all women ensemble ‘Pravaham’\n\nBeing placed as a semi-finalist in the reality show India’s Got Talent Season 8 (2018) where she was a golden buzzer contestant and performed on the violin along with Navneeth Sundar on the iPad\n\nPerforming for television channels Jaya TV, Sun TV, DD Podhigai and SVBC as an accompanying artiste\n\n#artheals #artforall"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 1
+            },
+            "gating_info": null,
+            "id": "2284134467205621377",
+            "is_video": false,
+            "media_preview": "ACoq2VjYlCoTZt+bI+bPb8KWSWCA4lKIT0zxU8H+rX/dH8q5rxD/AKxP90/zqUlbYpt3ZtfbLP8Avx/mKsZh+X7vz/d6c/T1rm4NMjUBpCWDDIK8ADGck/5FFtCyXCLES8SuDnGcbhz9Pu+3607LsK7OiIAfG0bf93+vSqEhwxHoT/OtmsCZv3jf7x/nWU1sb09WzZt/9Un+6P5Vkata/aJUGcHa3+IrWtv9Un+6v8hT2Xca2MHuznZ7tLULGck4GMcceh7flnjtU+mT+Y2HJBJLL0CnOBgcZ6f/AFqvS6ekp559PanRWKoVP905/KgRfrmZ2/eN/vH+Zrpq5W4P71/95v5mpaub0nZs6K3AaFAf7q/yFK6AdFz7/wCSK5UXEoGA7ADoNx/xo+0y/wB9/wDvo/41djI6fy89V/z/AN9etIIRnlOP8/7Vcz9pl/vv/wB9H/Gj7TL/AH3/AO+j/jRYNe51yRqn3RjNcrcn96/+838zUf2mX++//fR/xqMknk8k1SRS0P/Z",
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B-y4DIxBGaB",
+            "tags": [
+                "artheals",
+                "artforall"
+            ],
+            "taken_at_timestamp": 1586510068,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/92818734_533402434045760_4204859125607375884_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=GgV6_xMHDUEAX-njDnl&oh=9d38edaff6e870a794c02d5b9d292169&oe=5EC405BC&ig_cache_key=MjI4NDEzNDQ2NzIwNTYyMTM3Nw%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/92818734_533402434045760_4204859125607375884_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=GgV6_xMHDUEAX-njDnl&oh=771f28a3e80888aa713f7466b7adbf86&oe=5EC460F2&ig_cache_key=MjI4NDEzNDQ2NzIwNTYyMTM3Nw%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/92818734_533402434045760_4204859125607375884_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=GgV6_xMHDUEAX-njDnl&oh=da086d4bd6a258080b9f08c8adc5f681&oe=5EC1854C&ig_cache_key=MjI4NDEzNDQ2NzIwNTYyMTM3Nw%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/92818734_533402434045760_4204859125607375884_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=GgV6_xMHDUEAX-njDnl&oh=235de73982c96a71cc3da0fbafded292&oe=5EC40B92&ig_cache_key=MjI4NDEzNDQ2NzIwNTYyMTM3Nw%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92818734_533402434045760_4204859125607375884_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=GgV6_xMHDUEAX-njDnl&oh=df95e86220d847a51aa58d5ac42e885d&oe=5EC3459D&ig_cache_key=MjI4NDEzNDQ2NzIwNTYyMTM3Nw%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92818734_533402434045760_4204859125607375884_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=GgV6_xMHDUEAX-njDnl&oh=df95e86220d847a51aa58d5ac42e885d&oe=5EC3459D&ig_cache_key=MjI4NDEzNDQ2NzIwNTYyMTM3Nw%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92818734_533402434045760_4204859125607375884_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=GgV6_xMHDUEAX-njDnl&se=7&oh=52146cd20f8e61037d10c686a0dc9a70&oe=5EC437FA&ig_cache_key=MjI4NDEzNDQ2NzIwNTYyMTM3Nw%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92513572_1875591289243693_4451263046154651055_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=cjHqAfMGAj0AX8omV-Z&se=7&oh=ca66a44370457f120b24e1b3df5a3af1&oe=5EC14280&ig_cache_key=MjI4MzU0OTMyODQ2MTQ4MDEzMw%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 192
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are happy to present Prateeksha Kashi as the next dancer in the Art Heals series. She will be joining us live tomorrow (Friday, April 10th) at 6 p.m. IST.\n\nPrateeksha Kashi is being trained in Kuchipudi under the guidance of her mother and Guru Vyjayanthi Kashi, a celebrated performer and choreographer. She has performed in several prestigious dance festivals at regional, national and International levels. An empanelled artist of Indian Council for Cultural Relations (ICCR), Prateeksha has toured various countries not only to perform but also to conduct workshops along with her Guru.\n\nPrateeksha is an A grade artist of the broadcasting media-Dooradarshan Kendra. She has been honoured with Ustad Bismillah Khan Yuva Puraskar 2013-2014 by Central Sangeet Natak Academy, Aditya Birla Kalakiran Puraskar and Medha Jalota Puraskar from Jalota Welfare Foundation. Prateeksha has the title of Nalanda Nritya Nipuna, instituted by Nalanda Dance Research Centre. She has released a Kuchipudi DVD titled The Magic of Kuchipudi featuring the choreographic works of her Guru, Vyjayanthi Kashi.\n\n#artheals #artforall"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2283549328461480133",
+            "is_video": false,
+            "media_preview": "ACoqyJ7qRZHAdxhzjDHAGTUJu5ezv/30f8aZcf61/wDeP86hqUlbYpt3LIupzzvf/vo/40n2ub++/wD30f8AGrlvEsJ2yclsbgByvcc+4PPp6Gqtwn/LQDCE4Hr+NOy7Cux4nmK7vMbP++f/ANddFbuTEhPJKrkn6CuQrp7dv3af7q/yFY1Fojenq2c7P/rG/wB4/wA6SJdzAenP5UTffb/eP86QNgY9a3MHuzSe4HBkO/GfkGO/94+vsM/hVaeUzDdwM9h0AHaqwIB55HpS+aeg4oER10EJ/dr/ALo/lXP1uRH5F/3R/KpaudFJ2bMeX77fU/zqSN2AwCAPwz+pFaHlqew/IUnlp6D8hWljEpkn1H/jv+NMIIHBU491/wAav+WnoPyFHlp6D8hRYNe5kVsxH5F+g/lSeWnoPyFOximkVHQ//9k=",
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B-wzAP2B0DF",
+            "tags": [
+                "artheals",
+                "artforall"
+            ],
+            "taken_at_timestamp": 1586440314,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/92513572_1875591289243693_4451263046154651055_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=cjHqAfMGAj0AX8omV-Z&oh=28cc0e3da843b8154aa5336bc4a5ca87&oe=5EC4B341&ig_cache_key=MjI4MzU0OTMyODQ2MTQ4MDEzMw%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/92513572_1875591289243693_4451263046154651055_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=cjHqAfMGAj0AX8omV-Z&oh=8a8312d372117375fb4f73c6d18ffbaf&oe=5EC2B4C7&ig_cache_key=MjI4MzU0OTMyODQ2MTQ4MDEzMw%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/92513572_1875591289243693_4451263046154651055_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=cjHqAfMGAj0AX8omV-Z&oh=0151f59bfd0f3aadb8cb319ed475d062&oe=5EC42739&ig_cache_key=MjI4MzU0OTMyODQ2MTQ4MDEzMw%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/92513572_1875591289243693_4451263046154651055_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=cjHqAfMGAj0AX8omV-Z&oh=876c408b33decab4c3646ffd6b572178&oe=5EC19380&ig_cache_key=MjI4MzU0OTMyODQ2MTQ4MDEzMw%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92513572_1875591289243693_4451263046154651055_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=cjHqAfMGAj0AX8omV-Z&oh=856da49d4d93c85aea6d9449f8127ec4&oe=5EC31E46&ig_cache_key=MjI4MzU0OTMyODQ2MTQ4MDEzMw%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92513572_1875591289243693_4451263046154651055_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=cjHqAfMGAj0AX8omV-Z&oh=856da49d4d93c85aea6d9449f8127ec4&oe=5EC31E46&ig_cache_key=MjI4MzU0OTMyODQ2MTQ4MDEzMw%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92513572_1875591289243693_4451263046154651055_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=cjHqAfMGAj0AX8omV-Z&se=7&oh=ca66a44370457f120b24e1b3df5a3af1&oe=5EC14280&ig_cache_key=MjI4MzU0OTMyODQ2MTQ4MDEzMw%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92289639_831184407390391_3886738068345935555_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=sepGI9jv714AX-PdKJv&se=7&oh=1b2da4e865b258f8aaab389f790bcc6c&oe=5EC2E561&ig_cache_key=MjI4MzM5Njk2MTcxMTY1NDY4MQ%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 141
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are happy to present Sushma Somasekharan as the next musician in the Art Heals series. She will be joining us live tomorrow (Friday, April 10th) at 12:30 p.m. IST.\n\nSushma Somasekharan is a Carnatic Vocalist based in Singapore and Chennai. Sushma has performed in several prestigious organisations including Madras Music Academy, wherein she has won the Outstanding Vocalist Award - Junior for her performance, Esplanade Theatres by the Bay Singapore, Indian Embassy Brussels, Indian Consulate Luxembourg, Bharatiya Vidya Bhavan London and many more. She recently toured the USA in April 2019 with Dr Gowri Ramnarayan as part of the DK Pattamal centenary celebrations. She also collaborated with in London with Mythili Prakash for her premiere of her production, Here and Now. Passionate about bringing Carnatic Music to the uninitiated, Sushma is also a lecturer at the National Institute of Education, Singapore where she hopes to inspire students to learn more about Indian Classical Music.\n\n#artheals #artforall"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2283396961711654681",
+            "is_video": false,
+            "media_preview": "ACoq2VjYlCoTZt+bI+bPb8KsCJe6r+VEH+rX/dH8qzdYnlhiUwkhtwzj0wevtUpK2xTbuzT8pPQflR5Seg/KuQtbi62NJGXZieT1Hvwc8/Qe1amj3c1xI/msWAA4wBg59gKdl2FdmqQA+No2/wC7/XpVCQ4Yj0J/nWzWBM37xv8AeP8AOsprY3p6tlm7uXt7VDH95goBxnHGTx+lc35j4y+WQn5lJPUnt3B7+ldfHEs0CK/I2r/Ko/7PhxjH4mtjB7swrBxGrIisQTnP06Y5AyParMtxJboZFDKx4L7UOT23Yb8M4/WtcWiKu0cDORSi1jwVOCp6j9f580CIbGS4c/vsEFQwwPX/APVyKyp2/eN/vH+Zro0UIoUdAMCuYuD+9f8A3m/malq5vSdmzo7b/Up/ur/IUSRg/wAOfy/xFcqLiUDAdgB0G4/40faZf77/APfR/wAauxkdOY88lBx9P/iqaIFJ+ZOPw/8Aiq5r7TL/AH3/AO+j/jR9pl/vv/30f8aLBr3OwAAGB0Fcncn96/8AvN/M1H9pl/vv/wB9H/GoySeTyTVJDjof/9k=",
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B-wQXBQB4cZ",
+            "tags": [
+                "artheals",
+                "artforall"
+            ],
+            "taken_at_timestamp": 1586422151,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/92289639_831184407390391_3886738068345935555_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=sepGI9jv714AX-PdKJv&oh=e0385f3fd995f4191e7155749ab08cc0&oe=5EC46B23&ig_cache_key=MjI4MzM5Njk2MTcxMTY1NDY4MQ%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/92289639_831184407390391_3886738068345935555_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=sepGI9jv714AX-PdKJv&oh=01d75042b4ee30ff891385882c085fe6&oe=5EC14069&ig_cache_key=MjI4MzM5Njk2MTcxMTY1NDY4MQ%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/92289639_831184407390391_3886738068345935555_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=sepGI9jv714AX-PdKJv&oh=9ce681fec331413611dcb70eccbd2a14&oe=5EC1ADD3&ig_cache_key=MjI4MzM5Njk2MTcxMTY1NDY4MQ%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/92289639_831184407390391_3886738068345935555_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=sepGI9jv714AX-PdKJv&oh=02b0467264fc904291a0adad5cdf31a7&oe=5EC2AD89&ig_cache_key=MjI4MzM5Njk2MTcxMTY1NDY4MQ%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92289639_831184407390391_3886738068345935555_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=sepGI9jv714AX-PdKJv&oh=ca030d8c2b0ee248b80550ecc756fc6c&oe=5EC11A86&ig_cache_key=MjI4MzM5Njk2MTcxMTY1NDY4MQ%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92289639_831184407390391_3886738068345935555_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=sepGI9jv714AX-PdKJv&oh=ca030d8c2b0ee248b80550ecc756fc6c&oe=5EC11A86&ig_cache_key=MjI4MzM5Njk2MTcxMTY1NDY4MQ%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92289639_831184407390391_3886738068345935555_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=sepGI9jv714AX-PdKJv&se=7&oh=1b2da4e865b258f8aaab389f790bcc6c&oe=5EC2E561&ig_cache_key=MjI4MzM5Njk2MTcxMTY1NDY4MQ%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92228209_833284967148890_7586355216007590155_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=i5_9dnbMJvIAX8darBs&se=7&oh=b7b080f2ae024ab2d80ff5f6a9ece5de&oe=5EC108C6&ig_cache_key=MjI4MjgzODQzOTE0ODAxMTAzMQ%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 183
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are happy to present Purvadhanashree as the next dancer in the Art Heals series. She will be joining us live tomorrow (Thursday, April 9th) at 6 p.m. IST.\n\nPurvadhanashree is a Vilasini Natyam and Bharatanatyam artiste. From 2000 to 2014 she learnt Vilasini Natyam under Padmabhushan Guru Swapnasundari.  Sahitya Kala Parishad, Delhi selected Purva under the Young Talent Scholarship in the year 2002.\n\nFor the achievement in the field of Vilasini Natyam, Central Sangeet Natak Akademi awarded Purvadhanashree the Ustad Bismillah Khan Yuva Puraskar  in 2008. She is an empanelled artiste of SPIC MACAY and has been regularly conducting workshops and Lecture demonstrations across the country. In 2015 Bhanja Kala Mandap, Bhubaneshwar honoured Purva with the Jayadev Puraskar. And in 2016 she was awarded the Devadasi Sashimani Devi Smriti\nPuraskar in the 11th Devadasi National Dance Festival, Bhubaneshwar. \nPurvadhanashree is the daughter and disciple of Guru Kamalini Dutt in Bharatanatyam. She is a \"TOP grade” Bharatanatyam artiste of Doordarshan and an empanelled artiste of ICCR.\n\nSome of her major Vilasini Natyam presentations-\nMadras Music Academy, Margazhi Festival 2020\nKrishna Gana Sabha, Pongal Festival 2020\nSwati Tirunal Festival  2019\nNatya Kala Conference  2018\nKalakshetra Monthly Festival 2017\nNrityotsava, Sangeet Natak Akademi, Raipur, 2016\nHabitat Concert series, December 2015\nUmang Series by NCPA, Mumbai - December 2014 Mudra Festival 2010\nKhajuraho Festival 2008\nMudra Festival, Trivandrum  2007\n\n#artheals #artforall"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 4
+            },
+            "gating_info": null,
+            "id": "2282838439148011031",
+            "is_video": false,
+            "media_preview": "ACoqyJ7qRZHAdxhzjDHAGTUJu5ezv/30f8aZcf61/wDeP86YgBYA5xnnHJ/CpSVtim3cuRvPIpYSMMdix59R1qD7XN/ff/vo/wCNaVuGVduMDv2Of1/HpWTLGUYg+p+hp2XYV2WRPMV3eY2f98//AK66K3cmJCeSVXJP0FchXT27fu0/3V/kKxqLRG9PVs52f/WN/vH+dWbIA7vXA/rVWb77f7x/nSxSmI5XvxW5g92apJCqx6tjGD+efwps0KmNiOcDcD/n24qg907nOcYGBSJcuqlOoOf1oEV66CE/u1/3R/KufrciPyL/ALo/lUtXOik7NmPL99vqf51JG7YxkAe+M+vcjrWh5ansPyFJ5aeg/IVpYxKe4+q/+O//ABVNbOOCD+Kj+tXvLT0H5Cjy09B+QosGvcyK2Yj8i/QfypPLT0H5CnYxTSKjof/Z",
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B-uRXclBj4X",
+            "tags": [
+                "artheals",
+                "artforall"
+            ],
+            "taken_at_timestamp": 1586355570,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/92228209_833284967148890_7586355216007590155_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=i5_9dnbMJvIAX8darBs&oh=6751c10a4f7bee6780c661105a7caa87&oe=5EC4D688&ig_cache_key=MjI4MjgzODQzOTE0ODAxMTAzMQ%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/92228209_833284967148890_7586355216007590155_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=i5_9dnbMJvIAX8darBs&oh=a670efffb3416d0d3a299f466f426f1c&oe=5EC321CE&ig_cache_key=MjI4MjgzODQzOTE0ODAxMTAzMQ%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/92228209_833284967148890_7586355216007590155_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=i5_9dnbMJvIAX8darBs&oh=aefb257c843952feefbed60e73790a1a&oe=5EC2C1F8&ig_cache_key=MjI4MjgzODQzOTE0ODAxMTAzMQ%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/92228209_833284967148890_7586355216007590155_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=i5_9dnbMJvIAX8darBs&oh=26691c64a694d51fb5e4a4abb0cf6cf4&oe=5EC121AE&ig_cache_key=MjI4MjgzODQzOTE0ODAxMTAzMQ%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92228209_833284967148890_7586355216007590155_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=i5_9dnbMJvIAX8darBs&oh=38d1f9b058ba8b2252e679b0668cbd7e&oe=5EC2C2A1&ig_cache_key=MjI4MjgzODQzOTE0ODAxMTAzMQ%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92228209_833284967148890_7586355216007590155_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=i5_9dnbMJvIAX8darBs&oh=38d1f9b058ba8b2252e679b0668cbd7e&oe=5EC2C2A1&ig_cache_key=MjI4MjgzODQzOTE0ODAxMTAzMQ%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92228209_833284967148890_7586355216007590155_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=i5_9dnbMJvIAX8darBs&se=7&oh=b7b080f2ae024ab2d80ff5f6a9ece5de&oe=5EC108C6&ig_cache_key=MjI4MjgzODQzOTE0ODAxMTAzMQ%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92212659_147006010163006_8648093170109889743_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=Jc09xs_WmBwAX8CZhGX&se=7&oh=b2558b56806eb9b3e8714be4634a67e0&oe=5EC4BDF9&ig_cache_key=MjI4MjY1MjIyNjc4MDc2MDQ0Mw%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 124
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are happy to present Vishnu Ramprasadh as the next musician in the Art Heals series. He will be joining us live tomorrow (Thursday, April 8th) at 12:30 p.m. IST.\n\nVishnu R is a guitarist, composer, inventor and patent-holder of NAVTAR ®️, the only instrument in the world showcasing the best of Indian microtonal and Western harmonic music. Vishnu's unique, superlative command over Indian and Western traditions has gained him international attention, with performances and workshops across India, Europe and USA. He is a Grade 8 distinction holder in Western Classical Guitar performance from the Trinity College of London.\n\nVishnu has been awarded the Chennai/Karnataka Rajyothsava award, Pogo Amazing Musician award in 2010 for his efforts. Vishnu has also played guitars for numerous Indian Films. He has given lectures and talks in prestigious forums such as CII (Confederation of Indian Industry) & Indian Music Experience.\n\n#artheals #artforall"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 3
+            },
+            "gating_info": null,
+            "id": "2282652226780760443",
+            "is_video": false,
+            "media_preview": "ACoq2VjYlCoTZt+bI+bPb8KsCJe6r+VEH+rX/dH8qeWC9SB9alJW2Kbd2RSCKMbn2qPU4A/WniNDyACD7CsTVmilMfzBtm7IHPXHJA7ZFatooigQHAAXPtzzTsuwrsCAHxtG3/d/r0qhIcMR6E/zq+l7BIwRHVmOcAHPT/PSsqZv3jf7x/nWU1sb09WzRZWe2ARvLOwfNjOBgZ/MdxyO1c/Avm437vmHBz39OcnPU100ADQqD0KD+VQ/YkAAGMjpWxg92c5duyHaq7QAeRyWHGSfxxVjT4EncLJlgFJA3HGfpn3rY/s9Sclix56+/Wkt7BLd96n1/WgRagtYrcYjUL79/wASeawp2/eN/vH+Zrpa5W4P71/95v5mpaub0nZs6O2/1Kf7q/yFEiZ6Ln3/AMkVyouJRwHYAdBuP+NH2mX++/8A30f8auxkdSoI5C/y+v8Ae9ajEC9CnH+f9qua+0y/33/76P8AjR9pl/vv/wB9H/GiwfM7GuSuT+9f/eb+ZqP7TL/ff/vo/wCNRkknJ5Jqkhx0P//Z",
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B-tnBszBYl7",
+            "tags": [
+                "artheals",
+                "artforall"
+            ],
+            "taken_at_timestamp": 1586333371,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/92212659_147006010163006_8648093170109889743_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=Jc09xs_WmBwAX8CZhGX&oh=5827570e0030c987c65c8fc57f2f53d2&oe=5EC1853B&ig_cache_key=MjI4MjY1MjIyNjc4MDc2MDQ0Mw%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/92212659_147006010163006_8648093170109889743_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=Jc09xs_WmBwAX8CZhGX&oh=5200e72d9c5d8ab0db2e3a5cd9461629&oe=5EC42871&ig_cache_key=MjI4MjY1MjIyNjc4MDc2MDQ0Mw%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/92212659_147006010163006_8648093170109889743_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=Jc09xs_WmBwAX8CZhGX&oh=0421d41c560a68bc3645a7f3598f0c03&oe=5EC340CB&ig_cache_key=MjI4MjY1MjIyNjc4MDc2MDQ0Mw%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/92212659_147006010163006_8648093170109889743_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=Jc09xs_WmBwAX8CZhGX&oh=ee2535394a009e1b2e5388c73fb0bd8e&oe=5EC4CA11&ig_cache_key=MjI4MjY1MjIyNjc4MDc2MDQ0Mw%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92212659_147006010163006_8648093170109889743_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=Jc09xs_WmBwAX8CZhGX&oh=f06bc2f38927b912acda3e81645e36b9&oe=5EC1B21E&ig_cache_key=MjI4MjY1MjIyNjc4MDc2MDQ0Mw%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92212659_147006010163006_8648093170109889743_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=Jc09xs_WmBwAX8CZhGX&oh=f06bc2f38927b912acda3e81645e36b9&oe=5EC1B21E&ig_cache_key=MjI4MjY1MjIyNjc4MDc2MDQ0Mw%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92212659_147006010163006_8648093170109889743_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=Jc09xs_WmBwAX8CZhGX&se=7&oh=b2558b56806eb9b3e8714be4634a67e0&oe=5EC4BDF9&ig_cache_key=MjI4MjY1MjIyNjc4MDc2MDQ0Mw%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92343711_642348426604733_8366024112306022270_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=0zQaiG7qnT8AX-gFRip&se=7&oh=3e91170c403d86e28cfc69ba25977029&oe=5EC288ED&ig_cache_key=MjI4MjExNTQ2ODYxMTgxMDM0MA%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 327
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are happy to present Arushi Mudgal as the next dancer in the Art Heals series. She will be joining us live tomorrow (Wednesday, April 8th) at 6 p.m. IST.\n\nArushi Mudgal is one of the foremost young talents in the field of Odissi, known for her technical virtuosity and creative approach to tradition. She has trained under her aunt and Guru Vidushi Madhavi Mudgal at the Gandharva Mahavidyalaya, Delhi, a premiere music and dance institution founded by her grandfather, Pt Vinaya Chandra Maudgalya, and currently headed by her father, Pt Madhup Mudgal.\n\nArushi was selected as one of the Top Ten Dancers of 2018 by the New York Times. She tours extensively performing at various art festivals within the country and abroad. She has performed at some of the finest theatres of France like Theatre de la Ville, Musee Guimet, Cite de la Musique and Maison de la Danse, besides dancing at prestigious festivals in USA, UK, Austria, Germany, Spain, Belgium, Greece, China, Malaysia and Singapore. In India, she has been featured at the Music Academy, Krishna Gana Sabha, Karthik Fine Arts, Brahma Gana Sabha – Chennai, the Nishagandhi Festival – Trivandrum, N.C.P.A. – Mumbai, and Sangeet Natak Akademi’s Yuva Puraskar Festival – Delhi, among several others. She has also had the privilege of performing for dignitaries like the former Indian President Shri Abdul Kalam, President Shri Pranab Mukherjee, Prime Minister Shri Narendra Modi and former President of USA, Mr Barack Obama at the Rashtrapati Bhavan, New Delhi.\n\nIn 2008, Arushi was the only Indian artiste to be invited by the famous dancer-choreographer Pina Bausch of Wuppertal Tanztheater to perform at the Internationales Tanz Festival in Dusseldorf, Germany.\n\nArushi has been featured as one of the young ‘Game Changers of India’ by India Today. For her contribution in the field of Odissi dance, she has been presented with various awards including Sangeet Natak Akademi’s prestigious national award - Ustad Bismillah Khan Yuva Puraskar, the Young Women Achievers’ Award by FICCI, the Indian President’s Bal Shree Award, the Rajiv Gandhi Excellence Award and several others.\n\n#artheals #artforall"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 2
+            },
+            "gating_info": null,
+            "id": "2282115468611810340",
+            "is_video": false,
+            "media_preview": "ACoqybi6kWRwHcYc4wxwBk1CbybtI/8A30f8ajuf9a/+838zT7eJXPzf5/SpSVtim9Q+2T/89H/76P8AjR9sn/56P/30f8atPbJksflHBx6Z9D79s1KbSB1+XKnB69yO2M/yp2XYVyqLiYru8xs/75/xzXSW7kxISckquSfoK44jBx6V1Nu37pP91f5Csai0RtT1ZzU/+sb/AHj/ADqW15fH4/lUU3+sb/eP86dA4jbc1bmL3ZtZUDn5gMZBHp3/ADqpKUZd/wB3bxgd+e3p/OopLtRgxkg98jtVOSZpOvA9B0oERV0cDfu1/wB0fyrnK34T+7X/AHR/KpaudFF2bMSb77f7x/nT4iQDggA+uM/qRWp5ankgfkKTyk/uj8hWljGxnnPqOP8Ad/8AiqawJHUH8V/xrS8pP7o/IUeUn90fkKLB8zFrbiPyL9B/Kk8pP7o/IU/GOBTSKjof/9k=",
+            "owner": {
+                "id": "14462462489"
+            },
+            "shortcode": "B-rs-1zB_Qk",
+            "tags": [
+                "artheals",
+                "artforall"
+            ],
+            "taken_at_timestamp": 1586269385,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/92343711_642348426604733_8366024112306022270_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=0zQaiG7qnT8AX-gFRip&oh=b4dcfbdbea619de2296439063097132d&oe=5EC1CE2F&ig_cache_key=MjI4MjExNTQ2ODYxMTgxMDM0MA%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/92343711_642348426604733_8366024112306022270_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=0zQaiG7qnT8AX-gFRip&oh=17c08f7c570b8c8c320ecc1137b77fde&oe=5EC219E5&ig_cache_key=MjI4MjExNTQ2ODYxMTgxMDM0MA%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/92343711_642348426604733_8366024112306022270_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=0zQaiG7qnT8AX-gFRip&oh=b90cc3deb4aec96811595177e771aada&oe=5EC435DF&ig_cache_key=MjI4MjExNTQ2ODYxMTgxMDM0MA%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/92343711_642348426604733_8366024112306022270_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=0zQaiG7qnT8AX-gFRip&oh=c6ba33103e5ee89c05daaf4f02c763ca&oe=5EC20D85&ig_cache_key=MjI4MjExNTQ2ODYxMTgxMDM0MA%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92343711_642348426604733_8366024112306022270_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=0zQaiG7qnT8AX-gFRip&oh=1074ecd6022e1864d55159eee7cd9e80&oe=5EC3AB0A&ig_cache_key=MjI4MjExNTQ2ODYxMTgxMDM0MA%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/92343711_642348426604733_8366024112306022270_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=0zQaiG7qnT8AX-gFRip&oh=1074ecd6022e1864d55159eee7cd9e80&oe=5EC3AB0A&ig_cache_key=MjI4MjExNTQ2ODYxMTgxMDM0MA%3D%3D.2",
+            "urls": [
+                "https://instagram.fmaa3-1.fna.fbcdn.net/v/t51.2885-15/e35/92343711_642348426604733_8366024112306022270_n.jpg?_nc_ht=instagram.fmaa3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=0zQaiG7qnT8AX-gFRip&se=7&oh=3e91170c403d86e28cfc69ba25977029&oe=5EC288ED&ig_cache_key=MjI4MjExNTQ2ODYxMTgxMDM0MA%3D%3D.2"
+            ],
+            "username": "samarpanaforartsandwellbeing"
+        }
+    ]
+}
